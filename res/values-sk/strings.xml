@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">Pero S Pen</string>
+    <string name="contextualpage_title_earphone">Slúchadlá</string>
+    <string name="contextualpage_title_audiodock">Zvukový dok</string>
+    <string name="contextualpage_title_car">Držiak do auta</string>
+    <string name="contextualpage_title_desk">Stolný držiak</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Dokovanie</string>
+    <string name="contextualpage_noti_spen_title">Pero S Pen bolo odpojené</string>
+    <string name="contextualpage_noti_spen_body">Ťuknutím môžete prejsť na obrazovku pera S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Slúchadlá sú pripojené</string>
+    <string name="contextualpage_noti_earphone_body">Ťuknutím môžete prejsť na obrazovku slúchadiel</string>
+    <string name="contextualpage_noti_audiodock_title">Zvukový dok je pripojený</string>
+    <string name="contextualpage_noti_car_title">Držiak do auta pripojený</string>
+    <string name="contextualpage_noti_car_body">Ťuknutím môžete prejsť na obrazovku držiaka do auta</string>
+    <string name="contextualpage_noti_desk_title">Stolný držiak pripojený</string>
+    <string name="contextualpage_noti_desk_body">Ťuknutím môžete prejsť na obrazovku stolného držiaka</string>
+    <string name="contextualpage_noti_roaming_title">Roaming je povolený</string>
+    <string name="contextualpage_noti_dock_title">Dok je pripojený</string>
+    <string name="contextualpage_notification_title">Odporúčané aplikácie (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

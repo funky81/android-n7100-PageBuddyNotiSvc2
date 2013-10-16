@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Слушалки</string>
+    <string name="contextualpage_title_audiodock">Лежиште за звук</string>
+    <string name="contextualpage_title_car">Лежиште во автомобил</string>
+    <string name="contextualpage_title_desk">Лежиште за биро</string>
+    <string name="contextualpage_title_roaming">Роаминг</string>
+    <string name="contextualpage_title_docking">Приклучување</string>
+    <string name="contextualpage_noti_spen_title">S Pen е откачено</string>
+    <string name="contextualpage_noti_spen_body">Допрете да одите на екранот за S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Слушалките се поврзани</string>
+    <string name="contextualpage_noti_earphone_body">Допрете да одите на екранот за слушалки</string>
+    <string name="contextualpage_noti_audiodock_title">Поврзано е аудио лежиште</string>
+    <string name="contextualpage_noti_car_title">Поврз. е леж.за автомобил</string>
+    <string name="contextualpage_noti_car_body">Допрете да одите на екранот за лежиште за автомобил</string>
+    <string name="contextualpage_noti_desk_title">Лежиште за биро е поврз.</string>
+    <string name="contextualpage_noti_desk_body">Допрете да одите на екранот за лежиште за биро</string>
+    <string name="contextualpage_noti_roaming_title">Вклучен роаминг</string>
+    <string name="contextualpage_noti_dock_title">Лежиштето е поврзано</string>
+    <string name="contextualpage_notification_title">Препорачани апликации (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

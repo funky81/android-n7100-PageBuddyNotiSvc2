@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Kuulokkeet</string>
+    <string name="contextualpage_title_audiodock">Äänitelakka</string>
+    <string name="contextualpage_title_car">Autoteline</string>
+    <string name="contextualpage_title_desk">Pöytäteline</string>
+    <string name="contextualpage_title_roaming">Verkkovierailu</string>
+    <string name="contextualpage_title_docking">Telakointi</string>
+    <string name="contextualpage_noti_spen_title">S Pen -kynä on irrotettu</string>
+    <string name="contextualpage_noti_spen_body">Siirry S Pen -näyttöön napauttamalla tätä</string>
+    <string name="contextualpage_noti_earphone_title">Kuulokkeet on kytketty</string>
+    <string name="contextualpage_noti_earphone_body">Siirry kuulokenäyttöön napauttamalla tätä</string>
+    <string name="contextualpage_noti_audiodock_title">Äänitelakka on yhdistetty</string>
+    <string name="contextualpage_noti_car_title">Autoteline on yhdistetty</string>
+    <string name="contextualpage_noti_car_body">Siirry autotelinenäyttöön napauttamalla tätä</string>
+    <string name="contextualpage_noti_desk_title">Pöytäteline on yhdistetty</string>
+    <string name="contextualpage_noti_desk_body">Siirry pöytätelinenäyttöön napauttamalla tätä</string>
+    <string name="contextualpage_noti_roaming_title">Verkkovierailu käytössä</string>
+    <string name="contextualpage_noti_dock_title">Telakka on yhdistetty</string>
+    <string name="contextualpage_notification_title">Suositellut sovellukset (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

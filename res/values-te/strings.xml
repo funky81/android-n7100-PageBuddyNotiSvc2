@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ఇయర్‌ఫోన్‌లు</string>
+    <string name="contextualpage_title_audiodock">ఆడియో డాక్</string>
+    <string name="contextualpage_title_car">కారు క్రెడిల్</string>
+    <string name="contextualpage_title_desk">డెస్క్ క్రెడిల్</string>
+    <string name="contextualpage_title_roaming">రోమింగ్</string>
+    <string name="contextualpage_title_docking">డాకింగ్</string>
+    <string name="contextualpage_noti_spen_title">S Pen తొలగించబడింది</string>
+    <string name="contextualpage_noti_spen_body">S Pen స్క్రీన్‌కు వెళ్లడానికి నొక్కండి</string>
+    <string name="contextualpage_noti_earphone_title">ఇయర్ ఫోన్లు కనెక్ట్ చేయబడి ఉన్నాయి</string>
+    <string name="contextualpage_noti_earphone_body">ఇయర్‌ఫోన్‌ల స్క్రీన్‌కు వెళ్లడానికి నొక్కండి</string>
+    <string name="contextualpage_noti_audiodock_title">ఆడియో డాక్ అనుసంధానించబడింది</string>
+    <string name="contextualpage_noti_car_title">కారు క్రెడిల్ అనుసంధానించబడింది</string>
+    <string name="contextualpage_noti_car_body">కారు క్రెడిల్ స్క్రీన్‌కు వెళ్లడానికి నొక్కండి</string>
+    <string name="contextualpage_noti_desk_title">డెస్క్ క్రెడిల్ అనుసంధానించబడింది</string>
+    <string name="contextualpage_noti_desk_body">డెస్క్ క్రెడిల్ స్క్రీన్‌కు వెళ్లడానికి నొక్కండి</string>
+    <string name="contextualpage_noti_roaming_title">రోమింగ్ ప్రారంభించబడింది</string>
+    <string name="contextualpage_noti_dock_title">డాక్ అనుసంధానించబడింది</string>
+    <string name="contextualpage_notification_title">సిఫార్సు చేసిన అప్లికేషన్‌లు (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

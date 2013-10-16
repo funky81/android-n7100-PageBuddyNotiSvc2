@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Auriculares</string>
+    <string name="contextualpage_title_audiodock">Dock para sonido</string>
+    <string name="contextualpage_title_car">Base de automóvil</string>
+    <string name="contextualpage_title_desk">Base de escritorio</string>
+    <string name="contextualpage_title_roaming">Itinerancia</string>
+    <string name="contextualpage_title_docking">Acoplamiento</string>
+    <string name="contextualpage_noti_spen_title">S Pen has been detached</string>
+    <string name="contextualpage_noti_spen_body">Pulse para ir a la pantalla de S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Auriculares conectados</string>
+    <string name="contextualpage_noti_earphone_body">Pulse para ir a la pantalla de auriculares</string>
+    <string name="contextualpage_noti_audiodock_title">El dock para sonido está conectado</string>
+    <string name="contextualpage_noti_car_title">Base automóvil conectada</string>
+    <string name="contextualpage_noti_car_body">Pulse para ir a la pantalla de base de automóvil</string>
+    <string name="contextualpage_noti_desk_title">Base escritorio conectada</string>
+    <string name="contextualpage_noti_desk_body">Pulse para ir a la pantalla de base de escritorio</string>
+    <string name="contextualpage_noti_roaming_title">Itinerancia habilitada</string>
+    <string name="contextualpage_noti_dock_title">El dock está conectado</string>
+    <string name="contextualpage_notification_title">Atajos recomendados (%s)</string>
+</resources>

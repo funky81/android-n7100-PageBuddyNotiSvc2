@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Tai nghe</string>
+    <string name="contextualpage_title_audiodock">Đế cắm âm thanh</string>
+    <string name="contextualpage_title_car">Đế cắm trên xe</string>
+    <string name="contextualpage_title_desk">Đế cắm để bàn</string>
+    <string name="contextualpage_title_roaming">Chuyển vùng</string>
+    <string name="contextualpage_title_docking">Dock</string>
+    <string name="contextualpage_noti_spen_title">Đã tháo S Pen</string>
+    <string name="contextualpage_noti_spen_body">Chạm để chuyển đến màn hình S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Đã kết nối tai nghe</string>
+    <string name="contextualpage_noti_earphone_body">Chạm để chuyển đến màn hình tai nghe</string>
+    <string name="contextualpage_noti_audiodock_title">Đã kết nối đế cắm âm thanh</string>
+    <string name="contextualpage_noti_car_title">Đã kết nối đế cắm trên xe</string>
+    <string name="contextualpage_noti_car_body">Chạm để chuyển đến màn hình đế cắm trên xe</string>
+    <string name="contextualpage_noti_desk_title">Đế cắm đã được kết nối</string>
+    <string name="contextualpage_noti_desk_body">Chạm để chuyển đến màn hình đế cắm để bàn</string>
+    <string name="contextualpage_noti_roaming_title">Bật chuyển vùng</string>
+    <string name="contextualpage_noti_dock_title">Đã kết nối đế cắm</string>
+    <string name="contextualpage_notification_title">Ứng dụng được đề xuất (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

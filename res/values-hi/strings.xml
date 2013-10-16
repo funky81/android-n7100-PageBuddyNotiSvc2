@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">इयरफ़ोन्स</string>
+    <string name="contextualpage_title_audiodock">ऑडियो डॉक</string>
+    <string name="contextualpage_title_car">कार क्रेडल</string>
+    <string name="contextualpage_title_desk">डेस्क क्रेडल</string>
+    <string name="contextualpage_title_roaming">रोमिंग</string>
+    <string name="contextualpage_title_docking">डॉकिंग</string>
+    <string name="contextualpage_noti_spen_title">S Pen अलग हो गया है</string>
+    <string name="contextualpage_noti_spen_body">S Pen स्क्रीन पर जाने के लिए टैप करें</string>
+    <string name="contextualpage_noti_earphone_title">इयरफ़ोन्स कनेक्ट किया गया</string>
+    <string name="contextualpage_noti_earphone_body">इयरफ़ोन्स स्क्रीन पर जाने के लिए टैप करें</string>
+    <string name="contextualpage_noti_audiodock_title">ऑडियो डॉक जुड़ा है</string>
+    <string name="contextualpage_noti_car_title">कार क्रेडल जुड़ा है</string>
+    <string name="contextualpage_noti_car_body">कार क्रेडल स्क्रीन पर जाने के लिए टैप करें</string>
+    <string name="contextualpage_noti_desk_title">डेस्क क्रेडल जुड़ा है</string>
+    <string name="contextualpage_noti_desk_body">डेस्क क्रेडल स्क्रीन पर जाने के लिए टैप करें</string>
+    <string name="contextualpage_noti_roaming_title">रोमिंग सक्षम किया गया</string>
+    <string name="contextualpage_noti_dock_title">डॉक जुड़ा है</string>
+    <string name="contextualpage_notification_title">अनुशंसित ऐप्स (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">Sペン</string>
+    <string name="contextualpage_title_earphone">イヤホン</string>
+    <string name="contextualpage_title_audiodock">オーディオドック</string>
+    <string name="contextualpage_title_car">カークレードル</string>
+    <string name="contextualpage_title_desk">デスククレードル</string>
+    <string name="contextualpage_title_roaming">ローミング</string>
+    <string name="contextualpage_title_docking">ドッキング</string>
+    <string name="contextualpage_noti_spen_title">Sペンが取り外されました。</string>
+    <string name="contextualpage_noti_spen_body">S​ペン​画面​に​移動​する​には​タップ​して​ください。</string>
+    <string name="contextualpage_noti_earphone_title">イヤホンを接続しました。</string>
+    <string name="contextualpage_noti_earphone_body">イヤホン​画面​に​移動​する​には​タップ​して​ください。</string>
+    <string name="contextualpage_noti_audiodock_title">オーディオドックが接続されました。</string>
+    <string name="contextualpage_noti_car_title">ｶｰｸﾚｰﾄﾞﾙが接続されました。</string>
+    <string name="contextualpage_noti_car_body">カー​クレードル​画面​に​移動​する​には​タップ​して​ください。</string>
+    <string name="contextualpage_noti_desk_title">ﾃﾞｽｸｸﾚｰﾄﾞﾙが接続されました。</string>
+    <string name="contextualpage_noti_desk_body">デスク​クレードル​画面​に​移動​する​には​タップ​して​ください。</string>
+    <string name="contextualpage_noti_roaming_title">ローミングが有効になりました。</string>
+    <string name="contextualpage_noti_dock_title">ドックが接続されました。</string>
+    <string name="contextualpage_notification_title">おすすめアプリ(%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

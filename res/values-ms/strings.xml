@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Fon telinga</string>
+    <string name="contextualpage_title_audiodock">Dok audio</string>
+    <string name="contextualpage_title_car">Pemegang telefon kereta</string>
+    <string name="contextualpage_title_desk">Pemegang telefon meja</string>
+    <string name="contextualpage_title_roaming">Merayau</string>
+    <string name="contextualpage_title_docking">Dok</string>
+    <string name="contextualpage_noti_spen_title">S Pen telah ditanggalkan</string>
+    <string name="contextualpage_noti_spen_body">Ketik untuk pergi ke skrin S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Fon telinga disambung</string>
+    <string name="contextualpage_noti_earphone_body">Ketik untuk pergi ke skrin fon telinga</string>
+    <string name="contextualpage_noti_audiodock_title">Dok audio disambungkan</string>
+    <string name="contextualpage_noti_car_title">Pemegang telefon kereta dsambungkn</string>
+    <string name="contextualpage_noti_car_body">Ketik untuk pergi ke skrin pemegang telefon kereta</string>
+    <string name="contextualpage_noti_desk_title">Pemegang telefon meja dsambungkn</string>
+    <string name="contextualpage_noti_desk_body">Ketik untuk pergi ke skrin pemegang telefon meja</string>
+    <string name="contextualpage_noti_roaming_title">Perantauan diaktifkan</string>
+    <string name="contextualpage_noti_dock_title">Dok disambungkan</string>
+    <string name="contextualpage_notification_title">Aplikasi disyorkan (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

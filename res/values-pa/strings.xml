@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ਈਅਰਫੋਨਸ</string>
+    <string name="contextualpage_title_audiodock">ਆਡੀਓ ਡੌਕ</string>
+    <string name="contextualpage_title_car">ਕਾਰ ਕਰੈਡਲ</string>
+    <string name="contextualpage_title_desk">ਡੈਸਕ ਕਰੈਡਲ</string>
+    <string name="contextualpage_title_roaming">ਰੋਮਿੰਗ</string>
+    <string name="contextualpage_title_docking">ਡੌਕਿੰਗ</string>
+    <string name="contextualpage_noti_spen_title">S Pen ਨੂੰ ਵਖਰਿਆਇਆ ਗਿਆ ਹੈ</string>
+    <string name="contextualpage_noti_spen_body">S Pen ਸਕਰੀਨ ਤੇ ਜਾਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="contextualpage_noti_earphone_title">ਈਅਰਫ਼ੋਨਸ ਕਨੈਕਟ ਹੋਏ</string>
+    <string name="contextualpage_noti_earphone_body">ਈਅਰਫੋਨਸ ਸਕਰੀਨ ਤੇ ਜਾਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="contextualpage_noti_audiodock_title">ਆਡੀਓ ਲੌਕ ਕਨੈਕਟਿਡ ਹੈ</string>
+    <string name="contextualpage_noti_car_title">ਕਾਰ ਕਰੈਡਲ ਕਨੈਕਟ ਹੋ ਗਈ ਹੈ</string>
+    <string name="contextualpage_noti_car_body">ਕਾਰ ਕਰੈਡਲ ਸਕਰੀਨ ਤੇ ਜਾਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="contextualpage_noti_desk_title">ਡੈਸਕ ਕਰੈਡਲ ਕਨੈਕਟ ਹੋ ਗਈ ਹੈ</string>
+    <string name="contextualpage_noti_desk_body">ਡੈਸਕ ਕਰੈਡਲ ਸਕਰੀਨ ਤੇ ਜਾਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="contextualpage_noti_roaming_title">ਰੋਮਿੰਗ ਅਸਮਰੱਥ</string>
+    <string name="contextualpage_noti_dock_title">ਡੌਕ ਕਨੈਕਟਿਡ ਹੈ</string>
+    <string name="contextualpage_notification_title">ਸਫ਼ਾਰਸ਼ੀ ਐਪਸ (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

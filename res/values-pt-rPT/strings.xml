@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Auriculares</string>
+    <string name="contextualpage_title_audiodock">Ancoragem de áudio</string>
+    <string name="contextualpage_title_car">Descanso do carro</string>
+    <string name="contextualpage_title_desk">Descanso de secretária</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Ancoragem</string>
+    <string name="contextualpage_noti_spen_title">S Pen foi libertada</string>
+    <string name="contextualpage_noti_spen_body">Toque para ir para o ecrã da S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Auriculares ligados</string>
+    <string name="contextualpage_noti_earphone_body">Toque para ir para o ecrã dos auriculares</string>
+    <string name="contextualpage_noti_audiodock_title">A ancoragem de áudio está ligada</string>
+    <string name="contextualpage_noti_car_title">Descanso carro ligado</string>
+    <string name="contextualpage_noti_car_body">Toque para ir para o ecrã do descanso do carro</string>
+    <string name="contextualpage_noti_desk_title">Descanso secretá. ligado</string>
+    <string name="contextualpage_noti_desk_body">Toque para ir para o ecrã do descanso de secretária</string>
+    <string name="contextualpage_noti_roaming_title">Roaming activado</string>
+    <string name="contextualpage_noti_dock_title">A ancoragem está ligada</string>
+    <string name="contextualpage_notification_title">Aplicações recomendadas (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">עט S</string>
+    <string name="contextualpage_title_earphone">אוזניות</string>
+    <string name="contextualpage_title_audiodock">תחנת עגינה לשמע</string>
+    <string name="contextualpage_title_car">עריסה לרכב</string>
+    <string name="contextualpage_title_desk">עריסה שולחנית</string>
+    <string name="contextualpage_title_roaming">נדידה</string>
+    <string name="contextualpage_title_docking">עגינה</string>
+    <string name="contextualpage_noti_spen_title">עט S נותק</string>
+    <string name="contextualpage_noti_spen_body">הקש למעבר אל מסך עט S</string>
+    <string name="contextualpage_noti_earphone_title">האוזניות מחוברות</string>
+    <string name="contextualpage_noti_earphone_body">הקש למעבר אל מסך האוזניות</string>
+    <string name="contextualpage_noti_audiodock_title">תחנת עגינה לשמע מחוברת</string>
+    <string name="contextualpage_noti_car_title">העריסה לרכב מחוברת</string>
+    <string name="contextualpage_noti_car_body">הקש למעבר אל מסך העריסה לרכב</string>
+    <string name="contextualpage_noti_desk_title">העריסה השולחנית מחוברת</string>
+    <string name="contextualpage_noti_desk_body">הקש למעבר אל מסך העריסה השולחנית</string>
+    <string name="contextualpage_noti_roaming_title">נדידה מופעלת</string>
+    <string name="contextualpage_noti_dock_title">תחנת העגינה מחוברת</string>
+    <string name="contextualpage_notification_title">יישומים מומלצים (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="contextualpage_quick_panel_title_height">28.0dip</dimen>
+    <dimen name="contextualpage_quick_panel_title_padding_left">11.0dip</dimen>
+    <dimen name="contextualpage_quick_panel_title_text_size">17.0dip</dimen>
+    <dimen name="contextualpage_quick_panel_container_height">60.0dip</dimen>
+    <dimen name="contextualpage_quick_panel_icon_size">60.0dip</dimen>
+    <dimen name="contextualpage_quick_panel_icon_padding">11.0dip</dimen>
+    <dimen name="contextualpage_quick_panel_container_withsplit_height">60.0dip</dimen>
+    <dimen name="contextualpage_quick_panel_container_split_width">1.0dip</dimen>
+    <dimen name="contextualpage_quick_panel_container_split_height">22.0dip</dimen>
+    <dimen name="contextualpage_quick_panel_container_split_margintop">19.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUMMY_000a">false</item>
+    <item type="dimen" name="APKTOOL_DUMMY_000b">false</item>
+</resources>

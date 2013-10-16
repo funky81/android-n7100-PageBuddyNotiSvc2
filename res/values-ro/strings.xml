@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">Creion S</string>
+    <string name="contextualpage_title_earphone">Căşti</string>
+    <string name="contextualpage_title_audiodock">Difuzoare</string>
+    <string name="contextualpage_title_car">Suport de maşină</string>
+    <string name="contextualpage_title_desk">Suport de birou</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Andocare</string>
+    <string name="contextualpage_noti_spen_title">S Pen a fost îndepărtat</string>
+    <string name="contextualpage_noti_spen_body">Atingeţi pentru a accesa ecranul pentru Creion S</string>
+    <string name="contextualpage_noti_earphone_title">Căşti conectate</string>
+    <string name="contextualpage_noti_earphone_body">Atingeţi pentru a accesa ecranul pentru căşti</string>
+    <string name="contextualpage_noti_audiodock_title">Difuzoarele sunt conectate</string>
+    <string name="contextualpage_noti_car_title">Suport de maşină conectat</string>
+    <string name="contextualpage_noti_car_body">Atingeţi pentru a accesa ecranul pentru suportul de maşină</string>
+    <string name="contextualpage_noti_desk_title">Suport de birou conectat</string>
+    <string name="contextualpage_noti_desk_body">Atingeţi pentru a accesa ecranul pentru suportul de birou</string>
+    <string name="contextualpage_noti_roaming_title">Roaming activat</string>
+    <string name="contextualpage_noti_dock_title">Andocarea este conectată</string>
+    <string name="contextualpage_notification_title">Aplicaţii recomandate (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

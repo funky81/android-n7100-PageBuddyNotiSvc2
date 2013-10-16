@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Kõrvaklapid</string>
+    <string name="contextualpage_title_audiodock">Helidokk</string>
+    <string name="contextualpage_title_car">Autoalus</string>
+    <string name="contextualpage_title_desk">Lauaalus</string>
+    <string name="contextualpage_title_roaming">Rändlus</string>
+    <string name="contextualpage_title_docking">Dokkimine</string>
+    <string name="contextualpage_noti_spen_title">S Pen on eemaldatud</string>
+    <string name="contextualpage_noti_spen_body">Toksake, et avada S Peni ekraani</string>
+    <string name="contextualpage_noti_earphone_title">Kõrvaklapid on ühendatud</string>
+    <string name="contextualpage_noti_earphone_body">Toksake, et avada kõrvaklappide ekraani</string>
+    <string name="contextualpage_noti_audiodock_title">Helidokk on ühendatud</string>
+    <string name="contextualpage_noti_car_title">Autoalus on ühendatud</string>
+    <string name="contextualpage_noti_car_body">Toksake, et avada autoaluse ekraani</string>
+    <string name="contextualpage_noti_desk_title">Lauaalus on ühendatud</string>
+    <string name="contextualpage_noti_desk_body">Toksake, et avada lauaaluse ekraani</string>
+    <string name="contextualpage_noti_roaming_title">Rändlusvõrk on aktiv.-tud</string>
+    <string name="contextualpage_noti_dock_title">Dokk on ühendatud</string>
+    <string name="contextualpage_notification_title">Soovitatud rakendused (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

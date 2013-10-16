@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S펜</string>
+    <string name="contextualpage_title_earphone">이어폰</string>
+    <string name="contextualpage_title_audiodock">오디오 도크</string>
+    <string name="contextualpage_title_car">자동차 거치대</string>
+    <string name="contextualpage_title_desk">탁삭용 거치대</string>
+    <string name="contextualpage_title_roaming">로밍</string>
+    <string name="contextualpage_title_docking">도킹</string>
+    <string name="contextualpage_noti_spen_title">S펜이 분리되었습니다</string>
+    <string name="contextualpage_noti_spen_body">S펜 화면으로 이동하려면 누르세요</string>
+    <string name="contextualpage_noti_earphone_title">이어폰이 연결되었습니다</string>
+    <string name="contextualpage_noti_earphone_body">이어폰 화면으로 이동하려면 누르세요</string>
+    <string name="contextualpage_noti_audiodock_title">오디오 도크가 연결되었습니다</string>
+    <string name="contextualpage_noti_car_title">자동차 거치대가 연결되었습니다</string>
+    <string name="contextualpage_noti_car_body">자동차 거치대 화면으로 이동하려면 누르세요</string>
+    <string name="contextualpage_noti_desk_title">탁삭용 거치대가 연결되었습니다</string>
+    <string name="contextualpage_noti_desk_body">탁상용 거치대 화면으로 이동하려면 누르세요</string>
+    <string name="contextualpage_noti_roaming_title">로밍 사용 중</string>
+    <string name="contextualpage_noti_dock_title">도크가 연결되었습니다</string>
+    <string name="contextualpage_notification_title">추천 앱(%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

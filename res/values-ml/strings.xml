@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ഇയര്‍ഫോണുകള്‍</string>
+    <string name="contextualpage_title_audiodock">ഓഡിയോ ഡോക്ക്</string>
+    <string name="contextualpage_title_car">കാര്‍ ക്രേഡില്‍</string>
+    <string name="contextualpage_title_desk">ഡെസ്ക് ക്രേഡില്‍</string>
+    <string name="contextualpage_title_roaming">റോമിംഗ്</string>
+    <string name="contextualpage_title_docking">ഡോക്കിംഗ്</string>
+    <string name="contextualpage_noti_spen_title">S Pen വേര്‍പെടുത്തി</string>
+    <string name="contextualpage_noti_spen_body">S Pen സ്ക്രീനിലേക്ക് പോകാന്‍ ടാപ്പുചെയ്യുക</string>
+    <string name="contextualpage_noti_earphone_title">ഇയര്‍ഫോണുകള്‍ ബന്ധിപ്പിച്ചു</string>
+    <string name="contextualpage_noti_earphone_body">ഇയര്‍ ഫോണ്‍ സ്ക്രീനിലേക്ക് പോകാന്‍ ടാപ്പുചെയ്യുക</string>
+    <string name="contextualpage_noti_audiodock_title">ഓഡിയോ ഡോക്ക് ബന്ധിപ്പിച്ചു</string>
+    <string name="contextualpage_noti_car_title">കാര്‍ ക്രേഡില്‍ ബന്ധിപ്പിച്ചു</string>
+    <string name="contextualpage_noti_car_body">കാര്‍ ക്രേഡില്‍ സ്ക്രീനിലേക്ക് പോകാന്‍ ടാപ്പുചെയ്യുക</string>
+    <string name="contextualpage_noti_desk_title">ഡെസ്ക് ക്രേഡില്‍ വിച്ഛേദിച്ചു</string>
+    <string name="contextualpage_noti_desk_body">ഡെസ്ക് ക്രേഡില്‍ സ്ക്രീനിലേക്ക് പോകാന്‍ ടാപ്പുചെയ്യുക</string>
+    <string name="contextualpage_noti_roaming_title">റോമിംഗ് പ്രാപ്തമാക്കി</string>
+    <string name="contextualpage_noti_dock_title">ഡോക്ക്ക് ബന്ധിപ്പിച്ചു</string>
+    <string name="contextualpage_notification_title">ശുപാര്‍ശ ചെയ്യപ്പെടുന്ന ആപ്ലിക്കേഷനുകള്‍ (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

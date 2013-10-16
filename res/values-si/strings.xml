@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ඉයර්ෆෝන්</string>
+    <string name="contextualpage_title_audiodock">ඕඩියෝ ඩොක්</string>
+    <string name="contextualpage_title_car">කාර් රඳවනය</string>
+    <string name="contextualpage_title_desk">‍මේස රඳවනය</string>
+    <string name="contextualpage_title_roaming">රෝමිං</string>
+    <string name="contextualpage_title_docking">තටාකගත කිරීම</string>
+    <string name="contextualpage_noti_spen_title">S Pen ගලවා ඇත</string>
+    <string name="contextualpage_noti_spen_body">S Pen තිරයට යාමට තට්ටු කරන්න</string>
+    <string name="contextualpage_noti_earphone_title">ඉයර්ෆෝන් සම්බන්ධ කෙරිණ</string>
+    <string name="contextualpage_noti_earphone_body">ඉයර්ෆෝන් තිරයට යාමට තට්ටු කරන්න</string>
+    <string name="contextualpage_noti_audiodock_title">ඕඩියෝ ඩොක් සම්බන්ධ කර තිබේ</string>
+    <string name="contextualpage_noti_car_title">කාර් රඳවනය සම්බන්ධ කෙරිණ</string>
+    <string name="contextualpage_noti_car_body">කාර් රඳවන තිරයට යාමට තට්ටු කරන්න</string>
+    <string name="contextualpage_noti_desk_title">මේස රඳවනය සම්බන්ධිතයි</string>
+    <string name="contextualpage_noti_desk_body">මේස රඳවන තිරයට යාමට තට්ටු කරන්න</string>
+    <string name="contextualpage_noti_roaming_title">රෝමිං ක්‍රියාත්මකයි</string>
+    <string name="contextualpage_noti_dock_title">ඩොක් සම්බන්ධ වී තිබේ</string>
+    <string name="contextualpage_notification_title">නිර්දේශීත යෙදුම් (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">এয়াৰফোন</string>
+    <string name="contextualpage_title_audiodock">"অডিঅ' ডক"</string>
+    <string name="contextualpage_title_car">কাৰ ক্ৰেডল</string>
+    <string name="contextualpage_title_desk">ডেস্ক ক্ৰেডল</string>
+    <string name="contextualpage_title_roaming">ৰোমিং</string>
+    <string name="contextualpage_title_docking">ডোকিং</string>
+    <string name="contextualpage_noti_spen_title">S Pen পৃথক কৰা হৈছে</string>
+    <string name="contextualpage_noti_spen_body">S Pen স্ক্ৰীণলৈ যাবলৈ টিপক</string>
+    <string name="contextualpage_noti_earphone_title">এয়াৰফোন সংযোগ হৈছে</string>
+    <string name="contextualpage_noti_earphone_body">এয়াৰফোন স্ক্ৰীণলৈ যাবলৈ টিপক</string>
+    <string name="contextualpage_noti_audiodock_title">"অডিঅ' ডগ সংযোগ হৈছে"</string>
+    <string name="contextualpage_noti_car_title">কাৰ ক্ৰেডল সংযোগ হৈছে</string>
+    <string name="contextualpage_noti_car_body">কাৰ ক্ৰেডল স্ক্ৰীণলৈ যাবলৈ টিপক</string>
+    <string name="contextualpage_noti_desk_title">ডেস্ক ক্ৰেডল সংযোগ হৈছে</string>
+    <string name="contextualpage_noti_desk_body">ডেস্ক ক্ৰেডল স্ক্ৰীণলৈ যাবলৈ টিপক</string>
+    <string name="contextualpage_noti_roaming_title">ৰোমিং সক্ষমিত</string>
+    <string name="contextualpage_noti_dock_title">ডকিং সংযোগ হৈ আছে</string>
+    <string name="contextualpage_notification_title">অনুমোদিত এপ্প্‌চ (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

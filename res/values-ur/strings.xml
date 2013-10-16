@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S پین</string>
+    <string name="contextualpage_title_earphone">ایئر فونز</string>
+    <string name="contextualpage_title_audiodock">آڈیو ڈاک</string>
+    <string name="contextualpage_title_car">گاڑی کا گہوارا</string>
+    <string name="contextualpage_title_desk">ڈیسک گہوارہ</string>
+    <string name="contextualpage_title_roaming">گشت</string>
+    <string name="contextualpage_title_docking">ڈاکنگ</string>
+    <string name="contextualpage_noti_spen_title">S پن الگ کیا جا چکا ہے</string>
+    <string name="contextualpage_noti_spen_body">S پین اسکرین پر جانے کے لئے تھپتھپائیں</string>
+    <string name="contextualpage_noti_earphone_title">جڑے ہوئے ایئر فونز</string>
+    <string name="contextualpage_noti_earphone_body">ایئر فونز اسکرین پر جانے کے لئے تھپتھپائیں</string>
+    <string name="contextualpage_noti_audiodock_title">آڈیو ڈاک جڑ گیا ہے</string>
+    <string name="contextualpage_noti_car_title">گاڑی کا گہوارہ جڑ گیا ہے</string>
+    <string name="contextualpage_noti_car_body">گاڑی کے گہوارے کی اسکرین پر جانے کے لئے تھپتھپائیں</string>
+    <string name="contextualpage_noti_desk_title">ڈیسک گہوارہ جڑ گیا ہے</string>
+    <string name="contextualpage_noti_desk_body">ڈیسک گہوارے کی اسکرین پر جانے کے لئے تھپتھپائیں</string>
+    <string name="contextualpage_noti_roaming_title">گشت کرنا اہل بنادیا گیا</string>
+    <string name="contextualpage_noti_dock_title">یہ ڈاک جڑ گیا ہے</string>
+    <string name="contextualpage_notification_title">تجویز کردہ ایپلیکیشنز (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

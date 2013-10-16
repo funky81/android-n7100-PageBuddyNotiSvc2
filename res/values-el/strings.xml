@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Ακουστικά</string>
+    <string name="contextualpage_title_audiodock">Βάση σύνδεσης ήχου</string>
+    <string name="contextualpage_title_car">Βάση αυτοκινήτου</string>
+    <string name="contextualpage_title_desk">Βάση γραφείου</string>
+    <string name="contextualpage_title_roaming">Περιαγωγή</string>
+    <string name="contextualpage_title_docking">Σύνδεση</string>
+    <string name="contextualpage_noti_spen_title">Το S Pen αποσυνδέθηκε</string>
+    <string name="contextualpage_noti_spen_body">Πατήστε για να μεταβείτε στην οθόνη S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Συνδέθηκαν ακουστικά</string>
+    <string name="contextualpage_noti_earphone_body">Πατήστε για να μεταβείτε στην οθόνη ακουστικών</string>
+    <string name="contextualpage_noti_audiodock_title">Συνδέθηκε η βάση σύνδεσης ήχου</string>
+    <string name="contextualpage_noti_car_title">Συνδέθηκε η βάση αυτοκ.</string>
+    <string name="contextualpage_noti_car_body">Πατήστε για να μεταβείτε στην οθόνη βάσης αυτοκινήτου</string>
+    <string name="contextualpage_noti_desk_title">Συνδέθηκε η βάση γραφείου</string>
+    <string name="contextualpage_noti_desk_body">Πατήστε για να μεταβείτε στην οθόνη βάσης γραφείου</string>
+    <string name="contextualpage_noti_roaming_title">Περιαγωγή ενεργοποιημένη</string>
+    <string name="contextualpage_noti_dock_title">Συνδέθηκε η βάση σύνδεσης</string>
+    <string name="contextualpage_notification_title">Προτεινόμενες εφαρμογές (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

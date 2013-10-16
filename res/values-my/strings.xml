@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">နားၾကပ္မာ်း</string>
+    <string name="contextualpage_title_audiodock">အသံဆိပ္ကမ္း</string>
+    <string name="contextualpage_title_car">ကား ပုခက္</string>
+    <string name="contextualpage_title_desk">စားပြဲခံု ပုခက္</string>
+    <string name="contextualpage_title_roaming">လွည့္လည္သြားလာေနျခင္း</string>
+    <string name="contextualpage_title_docking">တပ္ေနပါသည္</string>
+    <string name="contextualpage_noti_spen_title">S Pen ျဖဳတ္ထားၿပီးၿပီ။</string>
+    <string name="contextualpage_noti_spen_body">S Pen သို႔ သြားရန္ ႏွိပ္ပါ</string>
+    <string name="contextualpage_noti_earphone_title">နားၾကပ္မ်ား ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="contextualpage_noti_earphone_body">နားၾကပ္ ဖန္သားျပင္သို႔သြားရန္ ႏွိပ္ပါ</string>
+    <string name="contextualpage_noti_audiodock_title">အသံဆိပ္ကမ္းခ်ိတ္ဆက္ထားသည္</string>
+    <string name="contextualpage_noti_car_title">ကား ပုခက္ ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="contextualpage_noti_car_body">ကား ပုခက္ ဖန္သားျပင္သို႔သြားရန္ ႏွိပ္ပါ</string>
+    <string name="contextualpage_noti_desk_title">စားပြဲခံု ပုခက္ ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="contextualpage_noti_desk_body">စားပြဲခံု ပုခက္ ဖန္သားျပင္သို႔သြားရန္ ႏွိပ္ပါ</string>
+    <string name="contextualpage_noti_roaming_title">Roaming ျဖစ္ေျမာက္ေအာင္ လုပ္ထားသည္။</string>
+    <string name="contextualpage_noti_dock_title">ဆိပ္ကမ္းကို ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="contextualpage_notification_title">ေထာက္ခံအၾကံျပဳသည့္ အက္ပ္မ်ား (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

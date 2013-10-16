@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Øretelefoner</string>
+    <string name="contextualpage_title_audiodock">Lyddokk</string>
+    <string name="contextualpage_title_car">Bilholder</string>
+    <string name="contextualpage_title_desk">Skrivebordsholder</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Dokking</string>
+    <string name="contextualpage_noti_spen_title">S Pen har blitt koblet fra</string>
+    <string name="contextualpage_noti_spen_body">Trykk for å gå til S Pen-skjerm</string>
+    <string name="contextualpage_noti_earphone_title">Øretelefoner tilkoblet</string>
+    <string name="contextualpage_noti_earphone_body">Trykk for å gå til høretelefonsskjerm</string>
+    <string name="contextualpage_noti_audiodock_title">Lyddokk er tilkoblet</string>
+    <string name="contextualpage_noti_car_title">Bilholder er koblet til</string>
+    <string name="contextualpage_noti_car_body">Trykk for å gå til bilholderskjerm</string>
+    <string name="contextualpage_noti_desk_title">Skriveb.holder koblet til</string>
+    <string name="contextualpage_noti_desk_body">Trykk for å gå til skrivebordsholderskjerm</string>
+    <string name="contextualpage_noti_roaming_title">Roaming aktivert</string>
+    <string name="contextualpage_noti_dock_title">Dokken er tilkoblet</string>
+    <string name="contextualpage_notification_title">Anbefalte programmer (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

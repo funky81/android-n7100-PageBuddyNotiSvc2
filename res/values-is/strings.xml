@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S-penni</string>
+    <string name="contextualpage_title_earphone">Heyrnartól</string>
+    <string name="contextualpage_title_audiodock">Hljóðdokka</string>
+    <string name="contextualpage_title_car">Bílstandur</string>
+    <string name="contextualpage_title_desk">Borðstandur</string>
+    <string name="contextualpage_title_roaming">Í reiki</string>
+    <string name="contextualpage_title_docking">Dokka</string>
+    <string name="contextualpage_noti_spen_title">S-penni hefur verið aftengdur</string>
+    <string name="contextualpage_noti_spen_body">Pikkaðu til að fara á S-pennaskjáinn</string>
+    <string name="contextualpage_noti_earphone_title">Heyrnartól eru tengd</string>
+    <string name="contextualpage_noti_earphone_body">Pikkaðu til að fara á heyrnartólaskjáinn</string>
+    <string name="contextualpage_noti_audiodock_title">Hljóðdokka er tengd</string>
+    <string name="contextualpage_noti_car_title">Bílstandur er ótengdur</string>
+    <string name="contextualpage_noti_car_body">Pikkaðu til að fara á bílstandsskjáinn</string>
+    <string name="contextualpage_noti_desk_title">Borðstandur er ótengdur</string>
+    <string name="contextualpage_noti_desk_body">Pikkaðu til að fara á borðstandsskjáinn</string>
+    <string name="contextualpage_noti_roaming_title">Reiki virkt</string>
+    <string name="contextualpage_noti_dock_title">Dokkan er tengd</string>
+    <string name="contextualpage_notification_title">Forrit sem mælt er með (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

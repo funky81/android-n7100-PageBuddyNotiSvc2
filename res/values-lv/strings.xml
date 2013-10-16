@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Austiņas</string>
+    <string name="contextualpage_title_audiodock">Audio dokstacija</string>
+    <string name="contextualpage_title_car">Automašīnas turētājs</string>
+    <string name="contextualpage_title_desk">Galda turētājs</string>
+    <string name="contextualpage_title_roaming">Viesabonēšana</string>
+    <string name="contextualpage_title_docking">Dokošana</string>
+    <string name="contextualpage_noti_spen_title">S Pen ir atvienota</string>
+    <string name="contextualpage_noti_spen_body">Pieskarieties, lai atvērtu S Pen ekrānu</string>
+    <string name="contextualpage_noti_earphone_title">Austiņas ir pievienotas</string>
+    <string name="contextualpage_noti_earphone_body">Pieskarieties, lai atvērtu austiņu ekrānu</string>
+    <string name="contextualpage_noti_audiodock_title">Audio dokstacija ir pievienota</string>
+    <string name="contextualpage_noti_car_title">Pievienots autom.turētājs</string>
+    <string name="contextualpage_noti_car_body">Pieskarieties, lai atvērtu automašīnas turētāja ekrānu</string>
+    <string name="contextualpage_noti_desk_title">Pievienots galda turētājs</string>
+    <string name="contextualpage_noti_desk_body">Pieskarieties, lai atvērtu galda turētāja ekrānu</string>
+    <string name="contextualpage_noti_roaming_title">Viesabon. ir aktivizēta</string>
+    <string name="contextualpage_noti_dock_title">Dokstacija ir pievienota</string>
+    <string name="contextualpage_notification_title">Ieteiktās programmas (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

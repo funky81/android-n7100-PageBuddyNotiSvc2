@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ເຄື່ອງຕໍ່ຟັງຫູ</string>
+    <string name="contextualpage_title_audiodock">ບ່ອນພັກສຽງ</string>
+    <string name="contextualpage_title_car">ໂຄງຂອງລົດ</string>
+    <string name="contextualpage_title_desk">ໂຄງຂອງໂຕະ</string>
+    <string name="contextualpage_title_roaming">ໂຣມມິງ</string>
+    <string name="contextualpage_title_docking">ກໍາລັງຕັດ</string>
+    <string name="contextualpage_noti_spen_title">S Pen ໄດ້ຖືກຖອດອອກໄປ</string>
+    <string name="contextualpage_noti_spen_body">ເຄາະເພື່ອໄປຫາໜ້າຈໍ S Pen</string>
+    <string name="contextualpage_noti_earphone_title">ສາຍຟັງຫູເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="contextualpage_noti_earphone_body">ເຄາະເພື່ອໄປຫາໜ້າຈໍສາຍຟັງຫູ</string>
+    <string name="contextualpage_noti_audiodock_title">ບ່ອນພັກສຽງຈະຖືກເຊື່ອມຕໍ່</string>
+    <string name="contextualpage_noti_car_title">ໂຄງຂອງລົດໄດ້ຖືກເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="contextualpage_noti_car_body">ເຄາະເພື່ອໄປຫາໜ້າຈໍໂຄງຂອງລົດ</string>
+    <string name="contextualpage_noti_desk_title">ໂຄງຂອງໂຕະໄດ້ຖືກເຊື່ອມຕໍ່</string>
+    <string name="contextualpage_noti_desk_body">ເຄາະເພື່ອໄປຫາໜ້າຈໍໂຄງຄໍ້າໂຕະ</string>
+    <string name="contextualpage_noti_roaming_title">ໄດ້ເປີດໃຊ້ການໂຣມມິ່ງຢູ່</string>
+    <string name="contextualpage_noti_dock_title">ເຊື່ອມຕໍ່ດັອກແລ້ວ</string>
+    <string name="contextualpage_notification_title">ແອັບທີ່ແນະນໍາໃຫ້ (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

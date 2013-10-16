@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">កាសស្ដាប់</string>
+    <string name="contextualpage_title_audiodock">ដក់​អូឌីយ៉ូ</string>
+    <string name="contextualpage_title_car">ជើងទម្រងទូរសព្ទលើឡាន</string>
+    <string name="contextualpage_title_desk">ជើងទម្រទូរសព្ទលើតុ</string>
+    <string name="contextualpage_title_roaming">រ៉ូមីង</string>
+    <string name="contextualpage_title_docking">ការដក់</string>
+    <string name="contextualpage_noti_spen_title">S Pen ត្រូវ​បាន​ផ្ដាច់​ចេញ</string>
+    <string name="contextualpage_noti_spen_body">ចុចឆ្ពោះទៅកាន់អេក្រង់កម្មវិធី S Pen</string>
+    <string name="contextualpage_noti_earphone_title">បាន​ភ្ជាប់​កាស</string>
+    <string name="contextualpage_noti_earphone_body">ចុចឆ្ពោះទៅកាន់អេក្រង់កាសស្ដាប់</string>
+    <string name="contextualpage_noti_audiodock_title">មាន​ការ​ភ្ជាប់​ដក់​អូឌីយ៉ូ</string>
+    <string name="contextualpage_noti_car_title">ជើងទម្រទូរសព្ទលើរថយន្តទទួលបានការភ្ជាប់</string>
+    <string name="contextualpage_noti_car_body">ចុចឆ្ពោះទៅកាន់អេក្រង់ជើងទម្រទូរស័ព្ទលើឡាន</string>
+    <string name="contextualpage_noti_desk_title">ជើងទម្រទូរសព្ទលើតុទទួលបានការភ្ជាប់</string>
+    <string name="contextualpage_noti_desk_body">ចុចឆ្ពោះទៅកាន់អេក្រង់ជើងទម្រទូរស័ព្ទលើតុ</string>
+    <string name="contextualpage_noti_roaming_title">បាន​បើក​រ៉ូមីង</string>
+    <string name="contextualpage_noti_dock_title">មានការភ្ជាប់ចំណត</string>
+    <string name="contextualpage_notification_title">កម្មវិធី​ដែល​បាន​ឲ្យ​យោបល់ (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

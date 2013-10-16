@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S olovka</string>
+    <string name="contextualpage_title_earphone">Slušalice</string>
+    <string name="contextualpage_title_audiodock">Audio postolje</string>
+    <string name="contextualpage_title_car">Postolje za automobil</string>
+    <string name="contextualpage_title_desk">Postolje za radni sto</string>
+    <string name="contextualpage_title_roaming">Roming</string>
+    <string name="contextualpage_title_docking">Priključ. na postolje</string>
+    <string name="contextualpage_noti_spen_title">S olovka je uklonjena</string>
+    <string name="contextualpage_noti_spen_body">Kucni za odlazak na ekran S olovke</string>
+    <string name="contextualpage_noti_earphone_title">Slušalice su povezane</string>
+    <string name="contextualpage_noti_earphone_body">Kucni za odlazak na ekran slušalica</string>
+    <string name="contextualpage_noti_audiodock_title">Povezano je audio postolje</string>
+    <string name="contextualpage_noti_car_title">Post. za auto je priklj.</string>
+    <string name="contextualpage_noti_car_body">Kucni za odlazak na ekran postolja za automobil</string>
+    <string name="contextualpage_noti_desk_title">Post. za sto je priklj.</string>
+    <string name="contextualpage_noti_desk_body">Kucni za odlazak na ekran postolja za radni sto</string>
+    <string name="contextualpage_noti_roaming_title">Roming je omogućen</string>
+    <string name="contextualpage_noti_dock_title">Povezano je postolje</string>
+    <string name="contextualpage_notification_title">Preporučene aplikacije (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

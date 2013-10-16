@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ইয়ারফোনগুলি</string>
+    <string name="contextualpage_title_audiodock">অডিও ডক</string>
+    <string name="contextualpage_title_car">কার ক্র্যাডল</string>
+    <string name="contextualpage_title_desk">ডেস্ক ক্র্যাডেল</string>
+    <string name="contextualpage_title_roaming">রোমিং</string>
+    <string name="contextualpage_title_docking">ডকিং</string>
+    <string name="contextualpage_noti_spen_title">S Penটি সংযোগ বিচ্ছিন্ন হয়েছে</string>
+    <string name="contextualpage_noti_spen_body">S Pen স্ক্রিনে যেতে ট্যাপ করুন</string>
+    <string name="contextualpage_noti_earphone_title">ইয়ারফোন সংযুক্ত</string>
+    <string name="contextualpage_noti_earphone_body">ইয়ারফোনগুলির স্ক্রিনে যেতে ট্যাপ করুন</string>
+    <string name="contextualpage_noti_audiodock_title">অডিও ডকটি সংযুক্ত আছে</string>
+    <string name="contextualpage_noti_car_title">কার ক্র্যাডেলটি সংযুক্ত</string>
+    <string name="contextualpage_noti_car_body">ক্র্যাডেল স্ক্রিনে যেতে ট্যাপ করুন</string>
+    <string name="contextualpage_noti_desk_title">ডেস্ক ক্র্যাডেল সংযুক্ত</string>
+    <string name="contextualpage_noti_desk_body">ডেস্ক ক্র্যাডেল স্ক্রিনে যেতে ট্যাপ করুন</string>
+    <string name="contextualpage_noti_roaming_title">রোমিং সক্ষম</string>
+    <string name="contextualpage_noti_dock_title">এই ডকটি সংযুক্ত</string>
+    <string name="contextualpage_notification_title">প্রস্তাবিত অ্যাপ (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

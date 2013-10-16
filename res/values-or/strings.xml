@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ଇୟର୍‌ଫୋନ୍‌ଗୁଡିକ</string>
+    <string name="contextualpage_title_audiodock">ଅଡିଓ ଡକ୍</string>
+    <string name="contextualpage_title_car">କାର୍ କ୍ରାଡଲେ</string>
+    <string name="contextualpage_title_desk">ଡେସ୍କ୍ କ୍ରାଡଲେ</string>
+    <string name="contextualpage_title_roaming">ରୋମିଂ</string>
+    <string name="contextualpage_title_docking">ଡକିଂ</string>
+    <string name="contextualpage_noti_spen_title">S Pen ବିଚ୍ଛିନ୍ନ ହୋଇଛି</string>
+    <string name="contextualpage_noti_spen_body">S Pen ସ୍କ୍ରିନ୍‌କୁ ଯିବାକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ</string>
+    <string name="contextualpage_noti_earphone_title">ଇୟର୍‌ଫୋନ୍ ସଂଯୋଜିତ ହୋଇଛି</string>
+    <string name="contextualpage_noti_earphone_body">ଇୟର୍‌ଫୋନ୍ ସ୍କ୍ରିନ୍‌କୁ ଯୋବାକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ</string>
+    <string name="contextualpage_noti_audiodock_title">ଅଡିଓ ଡକ୍ ସଂଯୋଜିତ ହୋଇଛି</string>
+    <string name="contextualpage_noti_car_title">କାର୍ କ୍ରାଡଲ୍ ସଂଯୋଜିତ ହେଲା</string>
+    <string name="contextualpage_noti_car_body">କାର୍ କ୍ରାଡଲେ ସ୍କ୍ରିନ୍‌କୁ ଯିବାକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ</string>
+    <string name="contextualpage_noti_desk_title">ଡେସ୍କ କ୍ରାଡଲେ ସଂଯୋଜିତ</string>
+    <string name="contextualpage_noti_desk_body">କାର୍ କ୍ରାଡଲେ ଡେସ୍କ୍‌କୁ ଯିବାକୁ ଟ୍ୟାପ୍ କରନ୍ତୁ</string>
+    <string name="contextualpage_noti_roaming_title">ରୋମିଂ ସାମର୍ଥ୍ୟ ହୋଇଛି</string>
+    <string name="contextualpage_noti_dock_title">ଡକ୍ ସଂଯୋଜିତ ହୋଇଛି</string>
+    <string name="contextualpage_notification_title">ସୁପାରିଶ କରାଯାଇଥିବା ଆପ୍ଲିକେସନ୍ (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

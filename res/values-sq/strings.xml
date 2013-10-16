@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Mikrokufjet</string>
+    <string name="contextualpage_title_audiodock">Stacionimi audio</string>
+    <string name="contextualpage_title_car">Foleja për makinë</string>
+    <string name="contextualpage_title_desk">Foleja për tryezë</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Qëndrimi në bazë</string>
+    <string name="contextualpage_noti_spen_title">S Pen është shkëputur</string>
+    <string name="contextualpage_noti_spen_body">Trokit për të shkuar tek ekrani i S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Mikrokufjet u lidhën</string>
+    <string name="contextualpage_noti_earphone_body">Trokit për të shkuar tek ekrani i mikrokufjeve</string>
+    <string name="contextualpage_noti_audiodock_title">Stacionimi audio është lidhur</string>
+    <string name="contextualpage_noti_car_title">Foleja për makinë lidhur</string>
+    <string name="contextualpage_noti_car_body">Trokit për të shkuar tek ekrani i folesë për makinë</string>
+    <string name="contextualpage_noti_desk_title">Foleja për tryezë lidhur</string>
+    <string name="contextualpage_noti_desk_body">Trokit për të shkuar tek ekrani i folesë për tryezë</string>
+    <string name="contextualpage_noti_roaming_title">Bredhja është aftësuar</string>
+    <string name="contextualpage_noti_dock_title">Stacionimi është lidhur</string>
+    <string name="contextualpage_notification_title">Aplikacionet e rekomanduara (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

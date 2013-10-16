@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ყურთსასმენები</string>
+    <string name="contextualpage_title_audiodock">აუდიო დოკი</string>
+    <string name="contextualpage_title_car">მანქანაში დამჭერი</string>
+    <string name="contextualpage_title_desk">მაგიდაზე დამჭერი</string>
+    <string name="contextualpage_title_roaming">როუმინგი</string>
+    <string name="contextualpage_title_docking">დოკინგი</string>
+    <string name="contextualpage_noti_spen_title">S Pen გამოერთებულია</string>
+    <string name="contextualpage_noti_spen_body">შეეხეთ და გადადით S Pen-ის ეკრანზე</string>
+    <string name="contextualpage_noti_earphone_title">გარნიტურა მიერთებულია</string>
+    <string name="contextualpage_noti_earphone_body">შეეხეთ და გადადით ყურთსასმენების ეკრანზე</string>
+    <string name="contextualpage_noti_audiodock_title">დაკავშირებულია აუდიო დოკი</string>
+    <string name="contextualpage_noti_car_title">მანქანაში დამჭერი დაკავშ.</string>
+    <string name="contextualpage_noti_car_body">შეეხეთ და გადადით მანქანაში დამჭერის ეკრანზე</string>
+    <string name="contextualpage_noti_desk_title">მაგიდაზე დამჭერი დაკავშ.</string>
+    <string name="contextualpage_noti_desk_body">შეეხეთ და გადადით მაგიდაზე დამჭერის ეკრანზე</string>
+    <string name="contextualpage_noti_roaming_title">როუმინგი ჩართულია</string>
+    <string name="contextualpage_noti_dock_title">დოკი დაკავშირებულია</string>
+    <string name="contextualpage_notification_title">რეკომენდებული პროგრამები (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

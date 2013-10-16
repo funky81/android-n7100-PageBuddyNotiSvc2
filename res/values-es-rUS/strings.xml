@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Auriculares</string>
+    <string name="contextualpage_title_audiodock">Adaptador de audio</string>
+    <string name="contextualpage_title_car">Soporte para automóvil</string>
+    <string name="contextualpage_title_desk">Soporte para escritorio</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Acoplamiento</string>
+    <string name="contextualpage_noti_spen_title">Se ha extraído el S Pen</string>
+    <string name="contextualpage_noti_spen_body">Pulse para ir a la pantalla del S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Auricular conectado</string>
+    <string name="contextualpage_noti_earphone_body">Pulse para ir a la pantalla de auriculares</string>
+    <string name="contextualpage_noti_audiodock_title">Adaptador de audio esta conectado</string>
+    <string name="contextualpage_noti_car_title">El soporte para automóvil está conectado</string>
+    <string name="contextualpage_noti_car_body">Pulse para ir a la pantalla del soporte para automóvil</string>
+    <string name="contextualpage_noti_desk_title">El soporte para escritorio está conectado</string>
+    <string name="contextualpage_noti_desk_body">Pulse para ir a la pantalla del soporte para escritorio</string>
+    <string name="contextualpage_noti_roaming_title">Roaming activado</string>
+    <string name="contextualpage_noti_dock_title">El adaptador está conectado</string>
+    <string name="contextualpage_notification_title">Aplicaciones recomendadas (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

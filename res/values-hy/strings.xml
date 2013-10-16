@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Ականջակալներ</string>
+    <string name="contextualpage_title_audiodock">Ձայնագրման միակցման բլոկ</string>
+    <string name="contextualpage_title_car">Մեքենայի հենակալ</string>
+    <string name="contextualpage_title_desk">Սեղանադիր հենակալ</string>
+    <string name="contextualpage_title_roaming">Ռոումինգ</string>
+    <string name="contextualpage_title_docking">Միակցում</string>
+    <string name="contextualpage_noti_spen_title">S Pen-ն արձակվել է</string>
+    <string name="contextualpage_noti_spen_body">Թակեք՝ S Pen-ի էկրան գնալու համար</string>
+    <string name="contextualpage_noti_earphone_title">Ականջակալները միացված են</string>
+    <string name="contextualpage_noti_earphone_body">Թակեք՝ ականջակալների էկրան գնալու համար</string>
+    <string name="contextualpage_noti_audiodock_title">Ձայնագրման միակցումը միացված է</string>
+    <string name="contextualpage_noti_car_title">Մեքենայի հենակալը միաց. է</string>
+    <string name="contextualpage_noti_car_body">Թակեք՝ մեքենայի հենակալի էկրան գնալու համար</string>
+    <string name="contextualpage_noti_desk_title">Սեղանադիր հենակալ միաց. է</string>
+    <string name="contextualpage_noti_desk_body">Թակեք՝ սեղանադիր հենակալի էկրան գնալու համար</string>
+    <string name="contextualpage_noti_roaming_title">Ռոումինգն ընձեռված է</string>
+    <string name="contextualpage_noti_dock_title">Միակցման բլոկը միացված է</string>
+    <string name="contextualpage_notification_title">Խորհուրդ տրվող ծրագրեր (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

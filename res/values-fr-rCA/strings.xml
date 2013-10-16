@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">Stylet Samsung</string>
+    <string name="contextualpage_title_earphone">Écouteurs</string>
+    <string name="contextualpage_title_audiodock">"Station d'accueil audio"</string>
+    <string name="contextualpage_title_car">Support de voiture</string>
+    <string name="contextualpage_title_desk">Support de bureau</string>
+    <string name="contextualpage_title_roaming">Itinérance</string>
+    <string name="contextualpage_title_docking">Branchement</string>
+    <string name="contextualpage_noti_spen_title">Le Stylet S est détaché</string>
+    <string name="contextualpage_noti_spen_body">"Touchez pour accéder à l'écran du stylet"</string>
+    <string name="contextualpage_noti_earphone_title">Écouteurs branchés</string>
+    <string name="contextualpage_noti_earphone_body">"Touchez pour accéder à l'écran des écouteurs"</string>
+    <string name="contextualpage_noti_audiodock_title">"Station d'accueil audio connectée"</string>
+    <string name="contextualpage_noti_car_title">Support voiture connecté</string>
+    <string name="contextualpage_noti_car_body">"Touchez pour accéder à l'écran du support de voiture"</string>
+    <string name="contextualpage_noti_desk_title">Support bureau connecté</string>
+    <string name="contextualpage_noti_desk_body">"Touchez pour accéder à l'écran du support de bureau"</string>
+    <string name="contextualpage_noti_roaming_title">Itinérance activée</string>
+    <string name="contextualpage_noti_dock_title">"La station d'accueil est connectée"</string>
+    <string name="contextualpage_notification_title">Applications recommandées (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Earphones</string>
+    <string name="contextualpage_title_audiodock">Audio dock</string>
+    <string name="contextualpage_title_car">Car cradle</string>
+    <string name="contextualpage_title_desk">Desk cradle</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Docking</string>
+    <string name="contextualpage_noti_spen_title">S Pen has been detached</string>
+    <string name="contextualpage_noti_spen_body">Tap to go to S Pen screen</string>
+    <string name="contextualpage_noti_earphone_title">Earphones connected</string>
+    <string name="contextualpage_noti_earphone_body">Tap to go to earphones screen</string>
+    <string name="contextualpage_noti_audiodock_title">Audio dock is connected</string>
+    <string name="contextualpage_noti_car_title">Car cradle is connected</string>
+    <string name="contextualpage_noti_car_body">Tap to go to car cradle screen</string>
+    <string name="contextualpage_noti_desk_title">Desk cradle is connected</string>
+    <string name="contextualpage_noti_desk_body">Tap to go to desk cradle screen</string>
+    <string name="contextualpage_noti_roaming_title">Roaming turned on</string>
+    <string name="contextualpage_noti_dock_title">The dock is connected</string>
+    <string name="contextualpage_notification_title">Recommended apps (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

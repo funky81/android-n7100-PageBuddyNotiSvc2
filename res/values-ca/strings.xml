@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Auriculars</string>
+    <string name="contextualpage_title_audiodock">"Dock d'àudio"</string>
+    <string name="contextualpage_title_car">Base per a automòbil</string>
+    <string name="contextualpage_title_desk">"Base d'escriptori"</string>
+    <string name="contextualpage_title_roaming">Itinerància</string>
+    <string name="contextualpage_title_docking">Acoblament</string>
+    <string name="contextualpage_noti_spen_title">S’ha desenganxat S Pen</string>
+    <string name="contextualpage_noti_spen_body">Toqui per anar a S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Auriculars connectats</string>
+    <string name="contextualpage_noti_earphone_body">"Toqui per anar a la pantalla d'auriculars"</string>
+    <string name="contextualpage_noti_audiodock_title">"El dock d'àudio està connectat"</string>
+    <string name="contextualpage_noti_car_title">Base automòbil connectada</string>
+    <string name="contextualpage_noti_car_body">Toqui per anar a la pantalla base automòbil</string>
+    <string name="contextualpage_noti_desk_title">Base escriptori connect</string>
+    <string name="contextualpage_noti_desk_body">Toqui per anar a la pantalla base escriptori</string>
+    <string name="contextualpage_noti_roaming_title">Itinerància habilitada</string>
+    <string name="contextualpage_noti_dock_title">El dock està connectat</string>
+    <string name="contextualpage_notification_title">Aplicacions recomanades (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

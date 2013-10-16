@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Навушники</string>
+    <string name="contextualpage_title_audiodock">Аудіо док-станція</string>
+    <string name="contextualpage_title_car">Автомобільний тримач</string>
+    <string name="contextualpage_title_desk">Настільний тримач</string>
+    <string name="contextualpage_title_roaming">Роумінг</string>
+    <string name="contextualpage_title_docking">Стикування</string>
+    <string name="contextualpage_noti_spen_title">"S Pen від'єднано"</string>
+    <string name="contextualpage_noti_spen_body">Натисніть, щоб перейти до екрана S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Навушники підключено</string>
+    <string name="contextualpage_noti_earphone_body">Натисніть, щоб перейти до екрана навушників</string>
+    <string name="contextualpage_noti_audiodock_title">Підключено аудіо док-станцію</string>
+    <string name="contextualpage_noti_car_title">Автом. тримач підключено</string>
+    <string name="contextualpage_noti_car_body">Натисніть, щоб перейти до екрана автомобільного тримача</string>
+    <string name="contextualpage_noti_desk_title">Настільний тримач підкл.</string>
+    <string name="contextualpage_noti_desk_body">Натисніть, щоб перейти до екрана настільного тримача</string>
+    <string name="contextualpage_noti_roaming_title">Роумінг ввімкнено</string>
+    <string name="contextualpage_noti_dock_title">Док-станцію підключено</string>
+    <string name="contextualpage_notification_title">Рекомендовані програми (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

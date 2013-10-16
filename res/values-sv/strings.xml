@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Hörlurar</string>
+    <string name="contextualpage_title_audiodock">Ljuddockning</string>
+    <string name="contextualpage_title_car">Bilhållare</string>
+    <string name="contextualpage_title_desk">Instrumentpanelshållare</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Dockning</string>
+    <string name="contextualpage_noti_spen_title">S Pen har kopplats från</string>
+    <string name="contextualpage_noti_spen_body">Tryck för att gå till S Pen-skärm</string>
+    <string name="contextualpage_noti_earphone_title">Hörlurar är anslutna</string>
+    <string name="contextualpage_noti_earphone_body">Tryck för att gå till hörlursskärm</string>
+    <string name="contextualpage_noti_audiodock_title">Ljuddockning är anslutet</string>
+    <string name="contextualpage_noti_car_title">Bilhållaren är ansluten</string>
+    <string name="contextualpage_noti_car_body">Tryck för att gå till bilhållarskärm</string>
+    <string name="contextualpage_noti_desk_title">Skrivb.hållare ansluten</string>
+    <string name="contextualpage_noti_desk_body">Tryck för att gå till skrivbordshållarskärmen</string>
+    <string name="contextualpage_noti_roaming_title">Roaming aktiverat</string>
+    <string name="contextualpage_noti_dock_title">Dockningen är ansluten</string>
+    <string name="contextualpage_notification_title">Rekommenderade program (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

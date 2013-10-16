@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Slušalke</string>
+    <string name="contextualpage_title_audiodock">Zvočno odložišče</string>
+    <string name="contextualpage_title_car">Nosilec za avto</string>
+    <string name="contextualpage_title_desk">Namizni nosilec</string>
+    <string name="contextualpage_title_roaming">Gostovanje</string>
+    <string name="contextualpage_title_docking">Odlaganje</string>
+    <string name="contextualpage_noti_spen_title">S Pen je bil odstranjen</string>
+    <string name="contextualpage_noti_spen_body">Pritisnite, da odprete zaslon za S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Slušalke so priključene</string>
+    <string name="contextualpage_noti_earphone_body">Pritisnite, da odprete zaslon slušalk</string>
+    <string name="contextualpage_noti_audiodock_title">Zvočno odložišče je priključeno</string>
+    <string name="contextualpage_noti_car_title">Nosilec za avto je povez.</string>
+    <string name="contextualpage_noti_car_body">Pritisnite, da odprete zaslon nosilca za avto</string>
+    <string name="contextualpage_noti_desk_title">Namizni nosilec je povez.</string>
+    <string name="contextualpage_noti_desk_body">Pritisnite, da odprete zaslon namiznega nosilca</string>
+    <string name="contextualpage_noti_roaming_title">Gostovanje omogočeno</string>
+    <string name="contextualpage_noti_dock_title">Odložišče je priključeno</string>
+    <string name="contextualpage_notification_title">Priporočene aplikacije (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

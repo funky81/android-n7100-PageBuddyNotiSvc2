@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Kulaklıklar</string>
+    <string name="contextualpage_title_audiodock">Ses yuvası</string>
+    <string name="contextualpage_title_car">Araba standı</string>
+    <string name="contextualpage_title_desk">Masa standı</string>
+    <string name="contextualpage_title_roaming">Dolaşım</string>
+    <string name="contextualpage_title_docking">Yerleştirme</string>
+    <string name="contextualpage_noti_spen_title">S kalem çıkartıldı</string>
+    <string name="contextualpage_noti_spen_body">S Pen ekranına gitmek için dokunun</string>
+    <string name="contextualpage_noti_earphone_title">Kulaklık takılı</string>
+    <string name="contextualpage_noti_earphone_body">Kulaklık ekranına gitmek için dokunun</string>
+    <string name="contextualpage_noti_audiodock_title">Ses yuvası bağlandı</string>
+    <string name="contextualpage_noti_car_title">Araba standı takılı</string>
+    <string name="contextualpage_noti_car_body">Araba stand ekranına gitmek için dokunun</string>
+    <string name="contextualpage_noti_desk_title">Masa standı takılı</string>
+    <string name="contextualpage_noti_desk_body">Masa stand ekranına gitmek için dokunun</string>
+    <string name="contextualpage_noti_roaming_title">Dolaşım devrede</string>
+    <string name="contextualpage_noti_dock_title">Yuva bağlandı</string>
+    <string name="contextualpage_notification_title">Önerilen uygulamalar (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

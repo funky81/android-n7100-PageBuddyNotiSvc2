@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ઇઅરફોન્સ</string>
+    <string name="contextualpage_title_audiodock">ઑડિયો ડૉક</string>
+    <string name="contextualpage_title_car">કાર ક્રેડલ</string>
+    <string name="contextualpage_title_desk">ડેસ્ક ક્રેડલ</string>
+    <string name="contextualpage_title_roaming">રોમિંગ</string>
+    <string name="contextualpage_title_docking">ડૉકિંગ</string>
+    <string name="contextualpage_noti_spen_title">S Pen ને અલગ કરવામાં આવ્યું</string>
+    <string name="contextualpage_noti_spen_body">S Pen સ્ક્રીન પર જવા માટે ટૅપ કરો</string>
+    <string name="contextualpage_noti_earphone_title">ઇયરફોન્સ જોડ્યા</string>
+    <string name="contextualpage_noti_earphone_body">ઈયરફોન્સ સ્ક્રીન પર જવા માટે ટૅપ કરો</string>
+    <string name="contextualpage_noti_audiodock_title">ઑડિયો ડોક કનેક્ટ કરેલું છે</string>
+    <string name="contextualpage_noti_car_title">કાર ક્રેડલ કનેક્ટ કરેલું છે</string>
+    <string name="contextualpage_noti_car_body">કાર ક્રેડલ સ્ક્રીન પર જવા માટે ટૅપ કરો</string>
+    <string name="contextualpage_noti_desk_title">ડેસ્ક ક્રેડલ કનેક્ટ કરેલા છે</string>
+    <string name="contextualpage_noti_desk_body">ડેસ્ક સ્ક્રીન પર જવા માટે ટૅપ કરો</string>
+    <string name="contextualpage_noti_roaming_title">રોમિંગ સક્ષમ છે</string>
+    <string name="contextualpage_noti_dock_title">ડૉક કનેક્ટ કરેલું છે</string>
+    <string name="contextualpage_notification_title">ભલામણ કરેલી અરજીઓ (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

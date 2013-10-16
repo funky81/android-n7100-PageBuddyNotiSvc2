@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Kopfhörer</string>
+    <string name="contextualpage_title_audiodock">Audio-Dock</string>
+    <string name="contextualpage_title_car">Fahrzeughalterung</string>
+    <string name="contextualpage_title_desk">Tischhalterung</string>
+    <string name="contextualpage_title_roaming">Auslandsaufenthalt</string>
+    <string name="contextualpage_title_docking">Docking</string>
+    <string name="contextualpage_noti_spen_title">S Pen wurde entfernt</string>
+    <string name="contextualpage_noti_spen_body">S Pen-Bildschirm öffnen</string>
+    <string name="contextualpage_noti_earphone_title">Kopfhörer angeschlossen</string>
+    <string name="contextualpage_noti_earphone_body">Tippen, um zum Kopfhörer-Bildschirm zu gelangen</string>
+    <string name="contextualpage_noti_audiodock_title">Audio-Dock ist verbunden.</string>
+    <string name="contextualpage_noti_car_title">Fahrzeughalt. ist verb.</string>
+    <string name="contextualpage_noti_car_body">Tippen, um zum Fahrzeughalterung-Bildschirm zu gelangen</string>
+    <string name="contextualpage_noti_desk_title">Tischhalt. ist nicht ver.</string>
+    <string name="contextualpage_noti_desk_body">Tippen, um zum Tischhalterung-Bildschirm zu gelangen</string>
+    <string name="contextualpage_noti_roaming_title">Roaming aktiviert</string>
+    <string name="contextualpage_noti_dock_title">Dockingstation verbunden</string>
+    <string name="contextualpage_notification_title">Empfohlene Apps (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

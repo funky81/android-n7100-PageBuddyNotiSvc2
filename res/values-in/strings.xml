@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Earphone</string>
+    <string name="contextualpage_title_audiodock">Dok audio</string>
+    <string name="contextualpage_title_car">Dudukan mobil</string>
+    <string name="contextualpage_title_desk">Dudukan meja</string>
+    <string name="contextualpage_title_roaming">Jelajah</string>
+    <string name="contextualpage_title_docking">Dok</string>
+    <string name="contextualpage_noti_spen_title">S Pen telah dilepas</string>
+    <string name="contextualpage_noti_spen_body">Ketuk untuk masuk ke layar S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Earphone terhubung</string>
+    <string name="contextualpage_noti_earphone_body">Ketuk untuk masuk ke layar earphone</string>
+    <string name="contextualpage_noti_audiodock_title">Dok audio tersambung</string>
+    <string name="contextualpage_noti_car_title">Dudukan mobil tersambung</string>
+    <string name="contextualpage_noti_car_body">Ketuk untuk masuk ke layar dudukan mobil</string>
+    <string name="contextualpage_noti_desk_title">Dudukan meja tersambung</string>
+    <string name="contextualpage_noti_desk_body">Ketuk untuk masuk ke layar dudukan meja</string>
+    <string name="contextualpage_noti_roaming_title">Roaming diaktifkan</string>
+    <string name="contextualpage_noti_dock_title">Dok tersambung</string>
+    <string name="contextualpage_notification_title">Aplikasi yang disarankan (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

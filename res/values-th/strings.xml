@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">หูฟัง</string>
+    <string name="contextualpage_title_audiodock">ด็อคเสียง</string>
+    <string name="contextualpage_title_car">แท่นวางในรถ</string>
+    <string name="contextualpage_title_desk">แท่นวางตั้งโต๊ะ</string>
+    <string name="contextualpage_title_roaming">โรม​มิ่ง</string>
+    <string name="contextualpage_title_docking">กำ​ลัง​ด็อค</string>
+    <string name="contextualpage_noti_spen_title">ถอด S Pen แล้ว</string>
+    <string name="contextualpage_noti_spen_body">แตะเพื่อไปยังหน้าจอ S Pen</string>
+    <string name="contextualpage_noti_earphone_title">เสียบหูฟังแล้ว</string>
+    <string name="contextualpage_noti_earphone_body">แตะเพื่อไปยังหน้าจอหูฟัง</string>
+    <string name="contextualpage_noti_audiodock_title">เชื่อมต่อด็อคเสียงแล้ว</string>
+    <string name="contextualpage_noti_car_title">เชื่อมต่อแท่นวางในรถแล้ว</string>
+    <string name="contextualpage_noti_car_body">แตะเพื่อไปยังหน้าจอแท่นวางในรถ</string>
+    <string name="contextualpage_noti_desk_title">เชื่อมต่อแท่นวางตั้งโต๊ะ</string>
+    <string name="contextualpage_noti_desk_body">แตะเพื่อไปยังหน้าจอแท่นวางตั้งโต๊ะ</string>
+    <string name="contextualpage_noti_roaming_title">เปิดใช้งานโรมมิ่ง</string>
+    <string name="contextualpage_noti_dock_title">เชื่อมต่อด็อคแล้ว</string>
+    <string name="contextualpage_notification_title">แอพที่แนะนำ (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

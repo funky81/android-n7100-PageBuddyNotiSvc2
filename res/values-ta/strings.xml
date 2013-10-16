@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">இயர்ஃபோன்கள்</string>
+    <string name="contextualpage_title_audiodock">கேட்பொலி டாக்</string>
+    <string name="contextualpage_title_car">கார் க்ரேடில்</string>
+    <string name="contextualpage_title_desk">டெஸ்க் க்ரேடில்</string>
+    <string name="contextualpage_title_roaming">ரோமிங்</string>
+    <string name="contextualpage_title_docking">டாக்கிங்</string>
+    <string name="contextualpage_noti_spen_title">S Pen துண்டிக்கப்பட்டது</string>
+    <string name="contextualpage_noti_spen_body">S Pen திரைக்குச் செல்ல டேப் செய்க</string>
+    <string name="contextualpage_noti_earphone_title">இயர்ஃபோன்கள் இணைக்கப்பட்டன</string>
+    <string name="contextualpage_noti_earphone_body">இயர்ஃபோன்கள் திரைக்குச் செல்ல டேப் செய்க</string>
+    <string name="contextualpage_noti_audiodock_title">கேட்பொலி டாக் இணைக்கப்பட்டுள்ளது</string>
+    <string name="contextualpage_noti_car_title">கார் க்ரேடில் இணைக்கப்பட்டது</string>
+    <string name="contextualpage_noti_car_body">கார் க்ரேடில் திரைக்குச் செல்ல டேப் செய்க</string>
+    <string name="contextualpage_noti_desk_title">டெ. க்ரேடில் இணைக்கப்பட்டது</string>
+    <string name="contextualpage_noti_desk_body">டெஸ்க் கார் க்ரேடில் திரைக்குச் செல்ல டேப் செய்க</string>
+    <string name="contextualpage_noti_roaming_title">ரோமிங் செயல்படுத்தப்பட்டது</string>
+    <string name="contextualpage_noti_dock_title">டாக் இணைக்கப்பட்டுள்ளது</string>
+    <string name="contextualpage_notification_title">பரிந்துரைக்கப்பட்ட பயன்பாடுகள் (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

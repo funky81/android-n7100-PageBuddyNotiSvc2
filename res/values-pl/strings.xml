@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">Rysik S Pen</string>
+    <string name="contextualpage_title_earphone">Słuchawki</string>
+    <string name="contextualpage_title_audiodock">Stacja dokująca audio</string>
+    <string name="contextualpage_title_car">Uchwyt samochodowy</string>
+    <string name="contextualpage_title_desk">Podstawka biurkowa</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Stacja dokująca</string>
+    <string name="contextualpage_noti_spen_title">Rysik S Pen został odłączony</string>
+    <string name="contextualpage_noti_spen_body">Dotknij, aby przejść do ekranu S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Podłączono słuchawki</string>
+    <string name="contextualpage_noti_earphone_body">Dotknij, aby przejść do ekranu słuchawek</string>
+    <string name="contextualpage_noti_audiodock_title">Podłączono stację dokującą audio</string>
+    <string name="contextualpage_noti_car_title">Podst. samoch. podłączona</string>
+    <string name="contextualpage_noti_car_body">Dotknij, aby przejść do ekranu uchwytu samochodowego</string>
+    <string name="contextualpage_noti_desk_title">Podst. biurk. podłączona</string>
+    <string name="contextualpage_noti_desk_body">Dotknij, aby przejść do ekranu podstawki biurkowej</string>
+    <string name="contextualpage_noti_roaming_title">Roaming włączony</string>
+    <string name="contextualpage_noti_dock_title">Podłączono stację dokującą</string>
+    <string name="contextualpage_notification_title">Polecane aplikacje (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

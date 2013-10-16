@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Headset</string>
+    <string name="contextualpage_title_audiodock">Audiodock</string>
+    <string name="contextualpage_title_car">Autohouder</string>
+    <string name="contextualpage_title_desk">Bureauhouder</string>
+    <string name="contextualpage_title_roaming">Roaming</string>
+    <string name="contextualpage_title_docking">Dock gebruiken</string>
+    <string name="contextualpage_noti_spen_title">S Pen is losgekoppeld</string>
+    <string name="contextualpage_noti_spen_body">Tik om naar scherm S Pen te gaan</string>
+    <string name="contextualpage_noti_earphone_title">Headset aangesloten</string>
+    <string name="contextualpage_noti_earphone_body">Tik om naar scherm headset te gaan</string>
+    <string name="contextualpage_noti_audiodock_title">Audiodock is aangesloten</string>
+    <string name="contextualpage_noti_car_title">Autohouder is aangesloten</string>
+    <string name="contextualpage_noti_car_body">Tik om naar scherm autohouder te gaan</string>
+    <string name="contextualpage_noti_desk_title">Bureauhouder aangesloten</string>
+    <string name="contextualpage_noti_desk_body">Tik om naar scherm bureauhouder te gaan</string>
+    <string name="contextualpage_noti_roaming_title">Roaming ingeschakeld</string>
+    <string name="contextualpage_noti_dock_title">Het dock is aangesloten</string>
+    <string name="contextualpage_notification_title">Aanbevolen apps (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">ಇಯರ್‌ಫೋನ್‌ಗಳು</string>
+    <string name="contextualpage_title_audiodock">ಆಡಿಯೋ ಡಾಕ್</string>
+    <string name="contextualpage_title_car">ಕಾರ್ ಕ್ರೆಡಲ್</string>
+    <string name="contextualpage_title_desk">ಡೆಸ್ಕ್ ಕ್ರೆಡಲ್</string>
+    <string name="contextualpage_title_roaming">ರೋಮಿಂಗ್</string>
+    <string name="contextualpage_title_docking">ಡಾಕಿಂಗ್</string>
+    <string name="contextualpage_noti_spen_title">S Pen ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ</string>
+    <string name="contextualpage_noti_spen_body">S Pen ಸ್ಕ್ರೀನ್‌ಗೆ ಹೋಗುವುದನ್ನು ಟ್ಯಾಗ್ ಮಾಡಿ</string>
+    <string name="contextualpage_noti_earphone_title">ಇಯರ್‌ಫೋನ್‌ಗಳು ಸಂಪರ್ಕಗೊಂಡಿವೆ</string>
+    <string name="contextualpage_noti_earphone_body">ಇಯರ್‌ಫೋನ್ಸ್‌ ಸ್ಕ್ರೀನ್‌ಗೆ ಹೋಗಲು</string>
+    <string name="contextualpage_noti_audiodock_title">ಆಡಿಯೋ ಡಾಕ್ ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+    <string name="contextualpage_noti_car_title">ಕಾರ್ ಕ್ರೆಡಲ್ ಸಂಪರ್ಕಿಸಿದೆ</string>
+    <string name="contextualpage_noti_car_body">ಕಾರ್ ಕ್ರೆಡಲ್ ಸ್ಕ್ರೀನ್‌ಗೆ ಹೋಗಲು</string>
+    <string name="contextualpage_noti_desk_title">ಡೆಸ್ಕ್ ಕ್ರೆಡಲ್ ಸಂಪರ್ಕಿಸಿದೆ</string>
+    <string name="contextualpage_noti_desk_body">ಡೆಸ್ಕ್ ಕ್ರೆಡಲ್ ಸ್ಕ್ರೀನ್‌ಗೆ ಹೋಗಲು</string>
+    <string name="contextualpage_noti_roaming_title">ರೋಮಿಂಗ್ ಶಕ್ತಗೊಳಿಸಿದೆ</string>
+    <string name="contextualpage_noti_dock_title">ಡಾಕ್ ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+    <string name="contextualpage_notification_title">ಶಿಫಾರಸು ಮಾಡಿದ ಅನ್ವಹಿಸುವಿಕೆಗಳು (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

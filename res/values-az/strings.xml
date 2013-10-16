@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Qulaqlıqlar</string>
+    <string name="contextualpage_title_audiodock">Audio bənd</string>
+    <string name="contextualpage_title_car">Avtomobil dəsti</string>
+    <string name="contextualpage_title_desk">Masaüstü dəst</string>
+    <string name="contextualpage_title_roaming">Rouminq</string>
+    <string name="contextualpage_title_docking">Bəndləmə</string>
+    <string name="contextualpage_noti_spen_title">S Pen ayrılıb</string>
+    <string name="contextualpage_noti_spen_body">S Pen ekranına keçmək üçün vurun</string>
+    <string name="contextualpage_noti_earphone_title">Qulaqlıqlar qoşulub</string>
+    <string name="contextualpage_noti_earphone_body">Qulaqlıq ekranına keçmək üçün vurun</string>
+    <string name="contextualpage_noti_audiodock_title">Audio bənd qoşulub</string>
+    <string name="contextualpage_noti_car_title">Avtomobil dəsti qoşulub</string>
+    <string name="contextualpage_noti_car_body">Avtomobil dəstinin ekranına keçmək üçün vurun</string>
+    <string name="contextualpage_noti_desk_title">Masaüstü dəst qoşulub</string>
+    <string name="contextualpage_noti_desk_body">Masaüstü dəstin ekranına keçmək üçün vurun</string>
+    <string name="contextualpage_noti_roaming_title">Rouminq aktivləşdirilib</string>
+    <string name="contextualpage_noti_dock_title">Bənd qoşulub</string>
+    <string name="contextualpage_notification_title">Tövsiyə olunan proqramlar (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

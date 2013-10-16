@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">گوشی ها</string>
+    <string name="contextualpage_title_audiodock">بلندگو</string>
+    <string name="contextualpage_title_car">جایگاه خودرو</string>
+    <string name="contextualpage_title_desk">جایگاه</string>
+    <string name="contextualpage_title_roaming">رومینگ</string>
+    <string name="contextualpage_title_docking">اتصال</string>
+    <string name="contextualpage_noti_spen_title">S Pen جدا شده است</string>
+    <string name="contextualpage_noti_spen_body">ضربه برای رفتن به صفحه S Pen</string>
+    <string name="contextualpage_noti_earphone_title">گوشی متصل شد</string>
+    <string name="contextualpage_noti_earphone_body">ضربه برای رفتن به صفحه گوشی</string>
+    <string name="contextualpage_noti_audiodock_title">بلندگو متصل است</string>
+    <string name="contextualpage_noti_car_title">جایگاه خودرو وصل است</string>
+    <string name="contextualpage_noti_car_body">ضربه برای رفتن به صفحه جایگاه خودرو</string>
+    <string name="contextualpage_noti_desk_title">جایگاه وصل است</string>
+    <string name="contextualpage_noti_desk_body">ضربه برای رفتن به صفحه جایگاه</string>
+    <string name="contextualpage_noti_roaming_title">رومینگ فعال شد</string>
+    <string name="contextualpage_noti_dock_title">جایگاه متصل است</string>
+    <string name="contextualpage_notification_title">برنامه های توصیه شده (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

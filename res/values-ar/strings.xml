@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">قلم S</string>
+    <string name="contextualpage_title_earphone">السماعات</string>
+    <string name="contextualpage_title_audiodock">وحدة تثبيت الصوت</string>
+    <string name="contextualpage_title_car">حامل الهاتف بالسيارة</string>
+    <string name="contextualpage_title_desk">حامل الهاتف المكتبي</string>
+    <string name="contextualpage_title_roaming">التجوال</string>
+    <string name="contextualpage_title_docking">الإرساء</string>
+    <string name="contextualpage_noti_spen_title">تم فصل قلم S</string>
+    <string name="contextualpage_noti_spen_body">انقر للانتقال إلى شاشة قلم S</string>
+    <string name="contextualpage_noti_earphone_title">تم توصيل سماعات الأذن</string>
+    <string name="contextualpage_noti_earphone_body">انقر للانتقال إلى شاشة سماعات الأذن</string>
+    <string name="contextualpage_noti_audiodock_title">تم توصيل وحدة تثبيت الصوت</string>
+    <string name="contextualpage_noti_car_title">تم توصيل حامل السيارة</string>
+    <string name="contextualpage_noti_car_body">انقر للانتقال إلى شاشة حامل الهاتف بالسيارة</string>
+    <string name="contextualpage_noti_desk_title">تم توصيل حامل هاتف مكتبي</string>
+    <string name="contextualpage_noti_desk_body">انقر للانتقال إلى شاشة حامل الهاتف المكتبي</string>
+    <string name="contextualpage_noti_roaming_title">تم تمكين التجوال</string>
+    <string name="contextualpage_noti_dock_title">تم توصيل وحدة التثبيت</string>
+    <string name="contextualpage_notification_title">التطبيقات الموصى بها (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">Cluasáin</string>
+    <string name="contextualpage_title_audiodock">Leaba nasctha fuaime</string>
+    <string name="contextualpage_title_car">Cliabhán cairr</string>
+    <string name="contextualpage_title_desk">Cliabhán deisce</string>
+    <string name="contextualpage_title_roaming">Ag fánaíocht</string>
+    <string name="contextualpage_title_docking">Cur i leaba nasctha</string>
+    <string name="contextualpage_noti_spen_title">Dícheanglaíodh S Pen</string>
+    <string name="contextualpage_noti_spen_body">Tapáil le dhul chuig scáileán S Pen</string>
+    <string name="contextualpage_noti_earphone_title">Cluasáin ceangailte</string>
+    <string name="contextualpage_noti_earphone_body">Tapáil le dhul chuig scáileán na gcluasán</string>
+    <string name="contextualpage_noti_audiodock_title">Nascadh an leaba nasctha fuaime</string>
+    <string name="contextualpage_noti_car_title">Cliabhán cairr nasctha</string>
+    <string name="contextualpage_noti_car_body">Tapáil le dhul chuig scáileán chliabhán an chairr</string>
+    <string name="contextualpage_noti_desk_title">Cliabhán deisce nasctha</string>
+    <string name="contextualpage_noti_desk_body">Tapáil le dhul chuig scáileán an chliabháin deisce</string>
+    <string name="contextualpage_noti_roaming_title">Fánaíocht cumasaithe</string>
+    <string name="contextualpage_noti_dock_title">Nascadh an leaba nasctha</string>
+    <string name="contextualpage_notification_title">Feidhmchláir molta (%s)</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>

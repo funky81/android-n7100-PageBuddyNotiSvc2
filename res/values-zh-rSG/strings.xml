@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PageBuddyNotiSvc</string>
+    <string name="contextualpage_title_spen">S Pen</string>
+    <string name="contextualpage_title_earphone">耳机</string>
+    <string name="contextualpage_title_audiodock">音频基座</string>
+    <string name="contextualpage_title_car">车载支架</string>
+    <string name="contextualpage_title_desk">台式支架</string>
+    <string name="contextualpage_title_roaming">漫游</string>
+    <string name="contextualpage_title_docking">接入</string>
+    <string name="contextualpage_noti_spen_title">S Pen 已拆下</string>
+    <string name="contextualpage_noti_spen_body">轻敲以进入 S Pen 画面</string>
+    <string name="contextualpage_noti_earphone_title">耳机已连接</string>
+    <string name="contextualpage_noti_earphone_body">轻敲以进入耳机画面</string>
+    <string name="contextualpage_noti_audiodock_title">音频基座已连接</string>
+    <string name="contextualpage_noti_car_title">车载支架已连接</string>
+    <string name="contextualpage_noti_car_body">轻敲以进入车载支架画面</string>
+    <string name="contextualpage_noti_desk_title">台式支架已连接</string>
+    <string name="contextualpage_noti_desk_body">轻敲以进入台式支架画面</string>
+    <string name="contextualpage_noti_roaming_title">已启用漫游</string>
+    <string name="contextualpage_noti_dock_title">基座已连接</string>
+    <string name="contextualpage_notification_title">推荐应用程序（%s）</string>
+    <string name="stms_version">GT-I9500_EUR_20130815_0327</string>
+</resources>
