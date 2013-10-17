@@ -562,6 +562,9 @@
 
     move-result-object v9
 
+    const-string v13, "PageBuddyNotiMgr"
+     invoke-static {v13, v9}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
     .line 189
     .local v9, name:Ljava/lang/String;
     const-string v13, "hotseat"
@@ -589,7 +592,7 @@
 
     invoke-direct {v14}, Ljava/lang/StringBuilder;-><init>()V
 
-    const-string v15, "Invalid tag <"
+    const-string v15, "Invalid tag 1 <"
 
     invoke-virtual {v14, v15}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -1209,7 +1212,7 @@
 
     invoke-direct {v12}, Ljava/lang/StringBuilder;-><init>()V
 
-    const-string v13, "Invalid tag <"
+    const-string v13, "Invalid tag 2 <"
 
     invoke-virtual {v12, v13}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -1245,80 +1248,59 @@
 
 # virtual methods
 .method protected addContextualPageNotification(I)V
-    .locals 5
+     .locals 3
     .parameter "cpType"
 
     .prologue
-    const/4 v4, 0x0
+    .line 90
+    const/4 v0, 0x0
 
-    const/4 v3, 0x1
+    const-string v1, "PageBuddyNotiMgr"
+     const-string v2, "PageBuddyNotiMgr masuk ke addcontexttual"
+     invoke-static {v1,v2}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
-    .line 91
-    new-instance v0, Lcom/samsung/android/sdk/look/Slook;
 
-    invoke-direct {v0}, Lcom/samsung/android/sdk/look/Slook;-><init>()V
+    invoke-virtual {p0, v0}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->checkLastNotiType(Z)V
 
     .line 92
-    .local v0, slook:Lcom/samsung/android/sdk/look/Slook;
-    invoke-virtual {v0, v3}, Lcom/samsung/android/sdk/look/Slook;->isFeatureEnabled(I)Z
+    sget-object v0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
 
-    move-result v1
+    iget-object v1, p0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mContext:Landroid/content/Context;
 
-    if-eqz v1, :cond_1
+    const/4 v2, 0x1
 
-    if-ne p1, v3, :cond_1
+    invoke-virtual {v0, v1, p1, v2}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->notificationSend(Landroid/content/Context;IZ)V
 
     .line 93
-    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
+    sget-object v0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
 
-    iget-object v2, p0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mContext:Landroid/content/Context;
-
-    invoke-virtual {v1, v2, p1, v4}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->notificationSend(Landroid/content/Context;IZ)V
-
-    .line 99
-    :goto_0
-    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
-
-    invoke-virtual {v1, p1}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->setLastNotificationType(I)V
-
-    .line 101
-    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->kindCP:Ljava/util/ArrayList;
-
-    invoke-static {p1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
-
-    move-result-object v2
-
-    invoke-virtual {v1, v2}, Ljava/util/ArrayList;->contains(Ljava/lang/Object;)Z
-
-    move-result v1
-
-    if-nez v1, :cond_0
-
-    .line 102
-    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->kindCP:Ljava/util/ArrayList;
-
-    invoke-static {p1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
-
-    move-result-object v2
-
-    invoke-virtual {v1, v2}, Ljava/util/ArrayList;->add(Ljava/lang/Object;)Z
-
-    .line 103
-    :cond_0
-    return-void
+    invoke-virtual {v0, p1}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->setLastNotificationType(I)V
 
     .line 95
-    :cond_1
-    invoke-virtual {p0, v4}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->checkLastNotiType(Z)V
+    sget-object v0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->kindCP:Ljava/util/ArrayList;
+
+    invoke-static {p1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Ljava/util/ArrayList;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_0
 
     .line 96
-    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
+    sget-object v0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->kindCP:Ljava/util/ArrayList;
 
-    iget-object v2, p0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mContext:Landroid/content/Context;
+    invoke-static {p1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
 
-    invoke-virtual {v1, v2, p1, v3}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->notificationSend(Landroid/content/Context;IZ)V
+    move-result-object v1
 
-    goto :goto_0
+    invoke-virtual {v0, v1}, Ljava/util/ArrayList;->add(Ljava/lang/Object;)Z
+
+    .line 97
+    :cond_0
+    return-void
 .end method
 
 .method protected checkLastNotiType(Z)V
@@ -1370,6 +1352,10 @@
 
     .prologue
     const/4 v8, 0x0
+
+    const-string v1, "PageBuddyNotiMgr"
+     const-string v2, "PageBuddyNotiMgr masuk ke gethotseat"
+     invoke-static {v1,v2}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 270
     new-instance v2, Ljava/util/ArrayList;
@@ -1640,6 +1626,12 @@
     .parameter "cpType"
 
     .prologue
+    
+    const-string v1, "PageBuddyNotiMgr"
+     const-string v2, "PageBuddyNotiMgr masuk ke removecontext"
+     invoke-static {v1,v2}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
+
     .line 106
     const/4 v2, 0x0
 
@@ -1761,6 +1753,12 @@
     .parameter "mode"
 
     .prologue
+    
+        const-string v1, "PageBuddyNotiMgr"
+     const-string v2, "PageBuddyNotiMgr masuk ke setupcontext"
+     invoke-static {v1,v2}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
+
     .line 324
     const/4 v3, 0x0
 
