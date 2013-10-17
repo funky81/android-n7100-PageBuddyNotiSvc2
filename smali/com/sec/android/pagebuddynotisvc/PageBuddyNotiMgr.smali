@@ -1000,6 +1000,10 @@
     invoke-interface/range {p2 .. p2}, Lorg/xmlpull/v1/XmlPullParser;->getDepth()I
 
     move-result v8
+    
+    const-string v1, "PageBuddyNotiMgr=>I"
+     invoke-static {v1, v8}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+    
 
     .line 225
     .local v8, startDepth:I
@@ -1057,6 +1061,11 @@
 
     move-result-object v5
 
+
+    const-string v1, "PageBuddyNotiMgr=>masuk di  xmlparser.getName()"
+     invoke-static {v1, v5}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
+
     .line 241
     .local v5, name:Ljava/lang/String;
     const/4 v11, 0x1
@@ -1080,6 +1089,9 @@
 
     move-result-object v6
 
+   const-string v1, "PageBuddyNotiMgr=>masuk di  xmlparser.getName()"
+     invoke-static {v1, v6}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
     .line 244
     const/4 v11, 0x0
 
@@ -1090,6 +1102,9 @@
     invoke-interface {v0, v11, v12}, Lorg/xmlpull/v1/XmlPullParser;->getAttributeValue(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
 
     move-result-object v3
+    
+       const-string v1, "PageBuddyNotiMgr=>masuk di  xmlparser.getName()"
+     invoke-static {v1, v3}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 245
     const/4 v11, 0x0
@@ -1101,6 +1116,9 @@
     invoke-interface {v0, v11, v12}, Lorg/xmlpull/v1/XmlPullParser;->getAttributeValue(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
 
     move-result-object v7
+    
+       const-string v1, "PageBuddyNotiMgr=>masuk di  xmlparser.getName()"
+     invoke-static {v1, v7}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 246
     const/4 v11, 0x0
@@ -1111,7 +1129,10 @@
 
     invoke-interface {v0, v11, v12}, Lorg/xmlpull/v1/XmlPullParser;->getAttributeValue(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
 
-    move-result-object v10
+      move-result-object v10
+
+   const-string v1, "PageBuddyNotiMgr=>masuk di  xmlparser.getName()"
+     invoke-static {v1, v10}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 256
     :goto_1
@@ -1243,6 +1264,7 @@
     invoke-static {v11, v12}, Landroid/util/secutil/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
 
     goto :goto_2
+
 .end method
 
 
