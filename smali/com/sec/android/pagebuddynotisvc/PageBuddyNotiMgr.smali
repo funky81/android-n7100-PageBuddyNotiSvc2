@@ -1001,9 +1001,10 @@
 
     move-result v8
     
- #   const-string v1, "PageBuddyNotiMgr=>I"
- #    invoke-static {v1, v8}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
-    
+ const-string v1, "PageBuddyNotiMgr=>I"
+    invoke-static {v8}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
+    move-result-object v15
+    invoke-static {v1, v15}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
 
     .line 225
     .local v8, startDepth:I
