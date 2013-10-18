@@ -1000,6 +1000,12 @@
     invoke-interface/range {p2 .. p2}, Lorg/xmlpull/v1/XmlPullParser;->getDepth()I
 
     move-result v8
+    
+     	const-string v1, "PageBuddyNotiMgr=>I"
+    invoke-static {v8}, Ljava/lang/String;->valueOf(I)Ljava/lang/String;
+    move-result-object v15
+    invoke-static {v1, v15}, Landroid/secutil/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
+
 
     .line 225
     .local v8, startDepth:I
