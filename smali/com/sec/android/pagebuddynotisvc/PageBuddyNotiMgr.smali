@@ -1280,59 +1280,84 @@
 
 # virtual methods
 .method protected addContextualPageNotification(I)V
-     .locals 3
+    .locals 5
     .parameter "cpType"
 
     .prologue
-    .line 90
-    const/4 v0, 0x0
+    const/4 v4, 0x0
+
+	const/4 v3, 0x1
 
     const-string v1, "PageBuddyNotiMgr"
      const-string v2, "PageBuddyNotiMgr masuk ke addcontexttual"
      invoke-static {v1,v2}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
+    .line 91
+    new-instance v0, Lcom/samsung/android/sdk/look/Slook;
 
-    invoke-virtual {p0, v0}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->checkLastNotiType(Z)V
+    invoke-direct {v0}, Lcom/samsung/android/sdk/look/Slook;-><init>()V
 
     .line 92
-    sget-object v0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
+    .local v0, slook:Lcom/samsung/android/sdk/look/Slook;
+    invoke-virtual {v0, v3}, Lcom/samsung/android/sdk/look/Slook;->isFeatureEnabled(I)Z
 
-    iget-object v1, p0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mContext:Landroid/content/Context;
+    move-result v1
 
-    const/4 v2, 0x1
+    if-eqz v1, :cond_1
 
-    invoke-virtual {v0, v1, p1, v2}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->notificationSend(Landroid/content/Context;IZ)V
+    if-ne p1, v3, :cond_1
 
     .line 93
-    sget-object v0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
+    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
 
-    invoke-virtual {v0, p1}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->setLastNotificationType(I)V
+    iget-object v2, p0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mContext:Landroid/content/Context;
 
-    .line 95
-    sget-object v0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->kindCP:Ljava/util/ArrayList;
+    invoke-virtual {v1, v2, p1, v4}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->notificationSend(Landroid/content/Context;IZ)V
 
-    invoke-static {p1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+    .line 99
+    :goto_0
+    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
 
-    move-result-object v1
+    invoke-virtual {v1, p1}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->setLastNotificationType(I)V
 
-    invoke-virtual {v0, v1}, Ljava/util/ArrayList;->contains(Ljava/lang/Object;)Z
-
-    move-result v0
-
-    if-nez v0, :cond_0
-
-    .line 96
-    sget-object v0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->kindCP:Ljava/util/ArrayList;
+    .line 101
+    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->kindCP:Ljava/util/ArrayList;
 
     invoke-static {p1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
 
-    move-result-object v1
+    move-result-object v2
 
-    invoke-virtual {v0, v1}, Ljava/util/ArrayList;->add(Ljava/lang/Object;)Z
+    invoke-virtual {v1, v2}, Ljava/util/ArrayList;->contains(Ljava/lang/Object;)Z
 
-    .line 97
+    move-result v1
+
+    if-nez v1, :cond_0
+
+    .line 102
+    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->kindCP:Ljava/util/ArrayList;
+
+    invoke-static {p1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    move-result-object v2
+
+    invoke-virtual {v1, v2}, Ljava/util/ArrayList;->add(Ljava/lang/Object;)Z
+
+    .line 103
     :cond_0
     return-void
+
+    .line 95
+    :cond_1
+    invoke-virtual {p0, v4}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->checkLastNotiType(Z)V
+
+    .line 96
+    sget-object v1, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mCPNotification:Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;
+
+    iget-object v2, p0, Lcom/sec/android/pagebuddynotisvc/PageBuddyNotiMgr;->mContext:Landroid/content/Context;
+
+    invoke-virtual {v1, v2, p1, v3}, Lcom/sec/android/pagebuddynotisvc/PageBuddyNoti;->notificationSend(Landroid/content/Context;IZ)V
+
+    goto :goto_0
 .end method
 
 .method protected checkLastNotiType(Z)V
