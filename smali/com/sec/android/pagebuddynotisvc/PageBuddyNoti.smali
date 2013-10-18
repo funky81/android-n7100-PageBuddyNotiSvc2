@@ -923,6 +923,11 @@
     .parameter "title"
 
     .prologue
+    
+ const-string v1, "ContextualPageNotification"
+    const-string v2, "notification create"
+    invoke-static {v1, v2}, Landroid/util/secutil/Log;->e(Ljava/lang/String;Ljava/lang/String;)I   
+    
     .line 170
     new-instance v6, Landroid/widget/RemoteViews;
 
@@ -1043,6 +1048,13 @@
     .line 188
     .local v7, cpName:Landroid/content/ComponentName;
     if-eqz v9, :cond_0
+
+
+ const-string v1, "ContextualPageNotification"
+    const-string v2, "notification masuk intent"
+    invoke-static {v1, v2}, Landroid/util/secutil/Log;->e(Ljava/lang/String;Ljava/lang/String;)I   
+    
+
 
     .line 189
     new-instance v4, Landroid/content/Intent;
