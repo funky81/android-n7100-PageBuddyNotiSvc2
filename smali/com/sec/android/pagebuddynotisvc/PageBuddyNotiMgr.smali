@@ -1063,9 +1063,9 @@
     move-result-object v5
 
 
-    const-string v10  , "PageBuddyNotiMgr=>masuk di  xmlparser.getName()"
+    const-string v9  , "PageBuddyNotiMgr=>masuk di  xmlparser.getName()"
     const-string v11 , "TESTING"
-    invoke-static {v10, v11}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+    invoke-static {v9, v5}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
 
     .line 241
@@ -1073,6 +1073,10 @@
     const/4 v11, 0x1
 
     move/from16 v0, p3
+
+    const-string v10  , "PageBuddyNotiMgr=>Flag"
+    invoke-static {v10, v0}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
 
     if-ne v0, v11, :cond_4
 
