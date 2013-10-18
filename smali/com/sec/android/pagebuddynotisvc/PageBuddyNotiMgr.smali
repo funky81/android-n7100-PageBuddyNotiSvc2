@@ -1074,8 +1074,8 @@
 
     move/from16 v0, p3
 
-    const-string v10  , "PageBuddyNotiMgr=>Flag"
-    invoke-static {v10, v0}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+    #const-string v10  , "PageBuddyNotiMgr=>Flag"
+    #invoke-static {v10, v0}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
 
     if-ne v0, v11, :cond_4
@@ -1095,8 +1095,8 @@
 
     move-result-object v6
 
-    const-string v10  , "PageBuddyNotiMgr=>PackageName 1"
-    invoke-static {v10, v6}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+    #const-string v10  , "PageBuddyNotiMgr=>PackageName 1"
+    #invoke-static {v10, v6}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
     .line 244
     const/4 v11, 0x0
 
@@ -1207,8 +1207,8 @@
 
     move-result-object v6
 
-    const-string v13, "PageBuddy=>Else PackageName"
-    invoke-static {v13, v6}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+    #const-string v13, "PageBuddy=>Else PackageName"
+    #invoke-static {v13, v6}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
 
 
