@@ -1072,6 +1072,13 @@
     .line 191
     invoke-virtual {v4, v7}, Landroid/content/Intent;->setComponent(Landroid/content/ComponentName;)Landroid/content/Intent;
 
+	invoke-virtual {v7}, Landroid/content/ComponentName;->toString()Ljava/lang/String;
+	move-result-object v13
+	const-string v2, "ContextualPageNotification=>Masuk ke component name"
+   # const-string v2, "notification masuk intent"
+    invoke-static {v2, v13}, Landroid/util/secutil/Log;->e(Ljava/lang/String;Ljava/lang/String;)I   
+ 
+
     .line 193
     const/high16 v1, 0x1022
 
